@@ -1,13 +1,15 @@
 import React from "react";
+import InputBox from "../inputBox/InputBox";
+import Button from "../buttons/Button";
 
 function Footer() {
   return (
-    <footer class="text-white py-5 text-center bg-[#111]">
-      <div class="flex justify-between px-[50px]">
-        <div class="max-w-[50%]">
+    <footer class="text-white pt-5 text-center bg-[#111]">
+      <div class="md:flex-row flex flex-col-reverse justify-between px-[50px]">
+        <div class="w-full md:max-w-[50%]">
           <div class="flex flex-col w-full items-start">
             <h3 className="m-0 text-[16px] text-[#a9a9a9]">Official Sales Partner:</h3>
-            <h1 className="m-0 text-[36px] text-[#3cb371]">Sampattee</h1>
+            <h1 className="m-0 text-[36px] text-[#ffffff] font-bold">Sampattee</h1>
           </div>
           <div class="flex flex-col w-full items-start">
             <div class="address">
@@ -31,13 +33,13 @@ function Footer() {
             </div>
           </div>
         </div>
-        <div class="max-w-[40%]">
-          <h3 className="mb-5 text-[18px]">Schedule your site visit now:</h3>
-          <form className="flex flex-col" action="#">
-            <input className="p-2.5 mb-2.5 border-none rounded" type="text" placeholder="Enter your name" required />
-            <input className="p-2.5 mb-2.5 border-none rounded" type="tel" placeholder="Enter your phone number" required />
-            <input className="p-2.5 mb-2.5 border-none rounded" type="email" placeholder="Enter your email" required />
-            <button className="p-2.5 bg-[#3cb371] text-white border-none rounded cursor-pointer transition-colors duration-300 hover:bg-[#2e8b57]" type="submit">SUBMIT</button>
+        <div class="w-full my-5 md:max-w-[50%]">
+          <h3 className="mb-5 font-bold text-[20px]">Schedule your site visit now:</h3>
+          <form className="flex flex-col gap-4" action="#">
+            <InputBox id={"firstName"} placeholder={"Enter your Name"} type={"text"} />
+            <InputBox id={"email"} placeholder={"Enter your Email"} type={"email"} />
+            <InputBox id={"firstName"} placeholder={"Enter your Phone Number"} type={"text"} />
+            <Button width={"100%"} title={"Submit"} />
           </form>
         </div>
       </div>

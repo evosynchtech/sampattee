@@ -1,69 +1,64 @@
-import React from "react";
+import React, { useEffect, useState } from "react";
+import Logo from "/assets/logoWithoutText.png";
 import { Link } from "react-router-dom";
+import "./Navbar.css";
+import SideBar from "./SideBar";
+import NavButton from "../navButtons/NavButton";
+import InputBox from "../inputBox/InputBox";
+import Button from "../buttons/Button";
 
 function Navbar() {
+  const [isOpen, setIsOpen] = useState(false);
+
+  useEffect(() => {
+    const div = document.createElement("div");
+    div.setAttribute("id", "overlay");
+    document.body.appendChild(div);
+    return () => div.remove();
+  }, []);
   return (
     <>
-      <nav className="bg-dark navbar navbar-expand-lg">
-        <div className="container-fluid">
-          <a className="navbar-brand text-white" href="#">
-            Sampattee
-          </a>
-          <button
-            className="navbar-toggler text-white"
-            type="button"
-            data-bs-toggle="collapse"
-            data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent"
-            aria-expanded="false"
-            aria-label="Toggle navigation"
-          >
-            <span className="navbar-toggler-icon"></span>
-          </button>
-          <div className="collapse navbar-collapse" id="navbarSupportedContent">
-            <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              <li className="nav-item">
-                <Link
-                  className="nav-link active text-white"
-                  aria-current="page"
-                  to=""
-                >
-                  Home
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className="nav-link active text-white"
-                  aria-current="page"
-                  to=""
-                >
-                  Home
-                </Link>
-              </li>
-              <li className="nav-item">
-                <Link
-                  className="nav-link active text-white"
-                  aria-current="page"
-                  to="/"
-                >
-                  Home
-                </Link>
-              </li>
-            </ul>
-            <form className="d-flex" role="search">
-              <input
-                className="form-control me-2"
-                type="search"
-                placeholder="Search"
-                aria-label="Search"
+      <div className="w-full bg-black flex justify-center">
+        <div class="nav-container items-stretch px-4 flex justify-between w-[90%] sm:w-[80%]">
+          <Link to="/" className=" flex flex-row items-center">
+            <h1 className="sm:text-2xl text-white text-xl font-roboto font-semibold ml-2">
+              Sampattee
+            </h1>
+          </Link>
+          <div class="lower-navbar bg-black font-poppins font-medium my-auto text-white flex flex-row justify-start py-2">
+            <NavButton
+              title={"Home"}
+              navigateTo={"/"}
+              classname={"mx-1 text-lg"}
+            />
+            <NavButton
+              title={"Home"}
+              navigateTo={"/"}
+              classname={"mx-1 text-lg"}
+            />
+            <NavButton
+              title={"Home"}
+              navigateTo={"/"}
+              classname={"mx-1 text-lg"}
+            />
+            <div className="flex px-1 gap-4 flex-row justify-center">
+              <InputBox
+                id={"search"}
+                placeholder={"Search For"}
+                type={"text"}
               />
-              <button className="btn btn-outline-success" type="submit">
-                Search
-              </button>
-            </form>
+              <Button width={30} title={"Submit"} marginX={2} />
+            </div>
+          </div>
+          <div
+            onClick={() => setIsOpen(true)}
+            class="ham-burger p-3 text-2xl sm:text-3xl border-none duration-150"
+          >
+            <i class="hamberger-lines text-white bi bi-list duration-300 focus:outline-none active:bg-slate-800 rounded-full"></i>
           </div>
         </div>
-      </nav>
+        <SideBar isMounted={isOpen} unMount={() => setIsOpen(false)} />
+      </div>
     </>
   );
 }

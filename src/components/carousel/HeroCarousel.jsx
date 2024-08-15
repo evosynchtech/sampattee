@@ -1,4 +1,4 @@
-import React, { useRef, useState } from "react";
+import React from "react";
 import { Swiper, SwiperSlide } from "swiper/react";
 
 import { Navigation, Pagination } from "swiper/modules";
@@ -47,10 +47,10 @@ function HeroCarousel() {
 
         <div class="swiper-pagination"></div>
 
-        <div class="swiper-prev text-[30px] z-20 absolute bg-white top-1/2 transition-[150ms] transform -translate-y-1/2 text-black left-[1%]">
+        <div class="swiper-prev text-[30px] cursor-pointer w-12 flex justify-center items-center aspect-square z-20 absolute rounded-full bg-white top-1/2 transition-[150ms] transform -translate-y-1/2 text-black left-[1%]">
           <i class="bi bi-caret-left-fill"></i>
         </div>
-        <div class="swiper-next text-[30px] z-20 absolute bg-white top-1/2 transition-[150ms] transform -translate-y-1/2 text-black right-[1%]">
+        <div class="swiper-next text-[30px] cursor-pointer w-12 flex justify-center items-center z-20 absolute aspect-square bg-white rounded-full top-1/2 transition-[150ms] transform -translate-y-1/2 text-black right-[1%]">
           <i class="bi bi-caret-right-fill"></i>
         </div>
       </Swiper>

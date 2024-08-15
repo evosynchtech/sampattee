@@ -80,10 +80,10 @@ function TrendingProjectsCarousel() {
       </SwiperSlide>
       <div class="trending-project-swiper-pagination flex flex-row justify-center gap-1"></div>
 
-      <div class="trending-project-swiper-prev absolute left-[1%] top-1/2 z-20 bg-white text-black text-[30px] transition-transform transform -translate-y-1/2">
+      <div class="trending-project-swiper-prev w-12 flex justify-center items-center aspect-square rounded-full absolute left-[1%] top-1/2 z-20 bg-white text-black text-[30px] transition-transform transform -translate-y-1/2">
         <i class="bi bi-caret-left-fill"></i>
       </div>
-      <div class="trending-project-swiper-next absolute right-[1%] top-1/2 z-20 bg-white text-black text-[30px] transition-transform transform -translate-y-1/2">
+      <div class="trending-project-swiper-next w-12 flex justify-center items-center aspect-square rounded-full absolute right-[1%] top-1/2 z-20 bg-white text-black text-[30px] transition-transform transform -translate-y-1/2">
         <i class="bi bi-caret-right-fill"></i>
       </div>
     </Swiper>

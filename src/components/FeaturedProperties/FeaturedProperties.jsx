@@ -5,7 +5,7 @@ import Title from "../title/Title";
 
 function FeaturedProperties() {
   return (
-    <div class="w-full mx-auto p-5">
+    <div class="w-full mx-auto pb-10 px-5 bg-gray-300">
       <Title title={"Featured Properties"} />
       <FeaturedPropertySection city={"Zirakpur"}>
         <FeaturedPropertyCard

@@ -4,9 +4,9 @@ import ChoosePropertyCard from "./ChoosePropertyCard";
 
 function ChooseProperty() {
   return (
-    <div className="my-10 mx-1 w-full bg-gray-300">
+    <div className="w-full bg-gray-300">
       <Title title={"Choose your property"} />
-      <div className="px-15 py-10">
+      <div className="px-14 py-10">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3 mx-10">
           <ChoosePropertyCard
             ImgUrl={

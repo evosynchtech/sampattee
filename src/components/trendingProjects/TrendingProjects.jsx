@@ -5,7 +5,7 @@ import TrendingProjectsCarousel from "./TrendingProjectsCarousel";
 function TrendingProjects() {
   return (
     <div className="flex w-full flex-col ">
-      <Title title={"TrendingProjects"} />
+      <Title title={"Trending Projects"} />
       <TrendingProjectsCarousel />
     </div>
   );
