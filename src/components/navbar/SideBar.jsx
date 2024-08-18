@@ -53,13 +53,13 @@ function SideBar({ isMounted, unMount }) {
       <div className="grid place-content-center font-medium gap-y-4 p-4 text-base sm:text-lg">
         <NavButton title={"Home"} navigateTo={"/"} classname={"text-center"} />
         <NavButton
-          title={"Home"}
+          title={"About"}
           navigateTo={"/about"}
           classname={"text-center"}
         />
         <NavButton
-          title={"Home"}
-          navigateTo={"/events"}
+          title={"Contact"}
+          navigateTo={"/contact"}
           classname={"text-center"}
         />
         <InputBox id={"search"} placeholder={"Search For"} type={"text"} />

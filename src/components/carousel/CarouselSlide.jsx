@@ -7,7 +7,7 @@ function CarouselSlide({ImgUrl, }) {
         <div class="swiper-slide">
           <div class="hero-carousel-slide w-full max-h-screen">
             <img
-              className="w-full object-cover"
+              className="w-full object-cover object-center"
               src={ImgUrl}
               alt=""
             />

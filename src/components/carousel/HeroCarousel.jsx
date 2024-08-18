@@ -26,21 +26,21 @@ function HeroCarousel() {
         <SwiperSlide>
           <CarouselSlide
             ImgUrl={
-              "https://mercedesblog.com/wp-content/uploads/2018/11/Mercedes-Benz-Instagram-11.jpg"
+              "/assets/properties/property_1.jpg"
             }
           />
         </SwiperSlide>
         <SwiperSlide>
           <CarouselSlide
             ImgUrl={
-              "https://mercedesblog.com/wp-content/uploads/2018/11/Mercedes-Benz-Instagram-11.jpg"
+              "/assets/properties/property_2.jpg"
             }
           />
         </SwiperSlide>
         <SwiperSlide>
           <CarouselSlide
             ImgUrl={
-              "https://mercedesblog.com/wp-content/uploads/2018/11/Mercedes-Benz-Instagram-11.jpg"
+              "/assets/properties/property_3.jpg"
             }
           />
         </SwiperSlide>

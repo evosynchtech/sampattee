@@ -32,13 +32,13 @@ function Navbar() {
               classname={"mx-1 text-lg"}
             />
             <NavButton
-              title={"Home"}
-              navigateTo={"/"}
+              title={"About"}
+              navigateTo={"/about"}
               classname={"mx-1 text-lg"}
             />
             <NavButton
-              title={"Home"}
-              navigateTo={"/"}
+              title={"Contact"}
+              navigateTo={"/contact"}
               classname={"mx-1 text-lg"}
             />
             <div className="flex px-1 gap-4 flex-row justify-center">
