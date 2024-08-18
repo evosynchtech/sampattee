@@ -5,9 +5,9 @@ import Title from "../title/Title";
 
 function FeaturedProperties() {
   return (
-    <div class="w-full mx-auto pb-10 px-5 bg-gray-300">
+    <div class="w-full -mt-1 mx-auto py-10 px-5 bg-black">
       <Title title={"Featured Properties"} />
-      <FeaturedPropertySection city={"Zirakpur"}>
+      <FeaturedPropertySection >
         <FeaturedPropertyCard
           description={
             "Developed by Harmony Colonizers Pvt Ltd, Imperial Apartments in Zirakpur are known for their high quality and affordability."

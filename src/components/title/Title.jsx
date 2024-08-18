@@ -1,11 +1,15 @@
 import React from "react";
 
-function Title({title}) {
+function Title({ title }) {
   return (
-    <div class="choose-your-property">
-      <div class="choose-your-property-title before:left-[250px] after:right-[250px] relative w-full px-10 py-10 flex justify-center items-center before:content-[''] before:absolute before:top-1/2 before:w-[200px] before:h-[2px] before:bg-black after:content-[''] after:absolute after:top-1/2 after:w-[200px] after:h-[2px] after:bg-black">
-        <h1 className="font-bold text-4xl">{title}</h1>
-      </div>
+    <div class="mx-auto max-w-screen-sm text-center lg:mb-16 mb-8">
+      <h2 class="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+        {title}
+      </h2>
+      {/* <p class="font-light text-gray-500 sm:text-xl dark:text-gray-400">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis rem
+            debitis atque veritatis delectus accusantium fugiat iure
+          </p> */}
     </div>
   );
 }
