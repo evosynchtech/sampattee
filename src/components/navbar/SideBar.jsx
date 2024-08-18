@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import Logo from "/assets/logoWithoutText.png";
 import { createPortal } from "react-dom";
 import "./SideBar.css";
 import NavButton from "../navButtons/NavButton";
@@ -38,9 +37,13 @@ function SideBar({ isMounted, unMount }) {
       <div className="sidebar-navbar w-full flex flex-row justify-center border-b border-b-slate-300">
         <div className="px-4 w-[80%] flex justify-between">
           <Link className="flex flex-row items-center" to={"/"}>
-            <h1 className="sm:text-2xl text-white text-xl font-roboto font-semibold ml-2">
-              Sampattee
-            </h1>
+            <div className="h-full flex items-center">
+              <img
+                className="h-[70%]"
+                src="/assets/sampatteeLogo.jpg"
+                alt="Sampattee"
+              />
+            </div>
           </Link>
           <div
             onClick={unMount}

@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from "react";
-import Logo from "/assets/logoWithoutText.png";
 import { Link } from "react-router-dom";
 import "./Navbar.css";
 import SideBar from "./SideBar";
@@ -21,9 +20,9 @@ function Navbar() {
       <div className="w-full bg-black flex justify-center">
         <div class="nav-container items-stretch px-4 flex justify-between w-[90%] sm:w-[80%]">
           <Link to="/" className=" flex flex-row items-center">
-            <h1 className="sm:text-2xl text-white text-xl font-roboto font-semibold ml-2">
-              Sampattee
-            </h1>
+            <div className="h-full flex items-center">
+              <img className="h-[70%]" src="/assets/sampatteeLogo.jpg" alt="Sampattee" />
+            </div>
           </Link>
           <div class="lower-navbar bg-black font-poppins font-medium my-auto text-white flex flex-row justify-start py-2">
             <NavButton
