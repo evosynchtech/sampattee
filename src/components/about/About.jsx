@@ -10,8 +10,9 @@ function About() {
             About Us
           </h2>
           <p class="font-light text-gray-500 sm:text-xl dark:text-gray-400">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis rem
-            debitis atque veritatis delectus accusantium fugiat iure
+            SAMPATTEE (सम्पति) catering to the Tricity Real Estate! We are a
+            team of experienced and dedicated real estate professionals who are
+            committed to helping you buy, sell, or rent properties in Tricity
           </p>
         </div>
         <div class="grid gap-8 lg:grid-cols-2">

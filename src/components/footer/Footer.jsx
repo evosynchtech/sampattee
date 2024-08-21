@@ -25,29 +25,28 @@ function Footer() {
                 Address
               </h4>
               <p className="my-1">
-                Plot No. 152, Industrial Area, Phase-2 – 160002, Chandigarh,
+                Industrial Area, Mohali – 160055, Punjab,
                 India
               </p>
             </div>
             <div class="phone">
               <h4 className="text-left my-5 mb-1 text-[14px] text-[#a9a9a9]">
-                Phone
               </h4>
               <p className="my-1">
-                Office : +91-98768-11177,
+                Office : +91-92163-20050,
                 <br />
-                Office : +91-82890-11177
+                Office : +91-97803-42464
               </p>
             </div>
             <div class="email">
               <h4 className="text-left my-5 mb-1 text-[14px] text-[#a9a9a9]">
                 Email
               </h4>
-              <p className="my-1">info@example.com</p>
+              <p className="my-1">sampatteereality@gmail.com</p>
             </div>
           </div>
         </div>
-        <div class="w-full my-5 md:max-w-[50%]">
+        <div class="w-full my-5 md:pl-[78px] md:max-w-[50%]">
           <h3 className="mb-5 font-bold text-[20px]">
             Schedule your site visit now:
           </h3>
@@ -73,7 +72,7 @@ function Footer() {
       </div>
       <div class="text-center py-2.5 text-[14px] bg-[#000]">
         <p className="m-0">
-          Beverly Golf Avenue © 2023 Managed By Tangent Promoters LLP
+          Sampattee © 2024
         </p>
       </div>
     </footer>

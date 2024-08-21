@@ -1,9 +1,10 @@
 import React from "react";
 
-function InputBox({ placeholder, type, id }) {
+function InputBox({ placeholder, type, id, setter, value }) {
   return (
     <div>
       <input
+        onChange={(e) => setter(e.target.value)}
         type={type}
         placeholder={placeholder}
         id={id}
