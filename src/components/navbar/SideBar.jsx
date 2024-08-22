@@ -54,13 +54,20 @@ function SideBar({ isMounted, unMount }) {
         </div>
       </div>
       <div className="grid place-content-center font-medium gap-y-4 p-4 text-base sm:text-lg">
-        <NavButton title={"Home"} navigateTo={"/"} classname={"text-center"} />
         <NavButton
+          onClick={unMount}
+          title={"Home"}
+          navigateTo={"/"}
+          classname={"text-center"}
+        />
+        <NavButton
+          onClick={unMount}
           title={"About"}
           navigateTo={"/about"}
           classname={"text-center"}
         />
         <NavButton
+          onClick={unMount}
           title={"Contact"}
           navigateTo={"/contact"}
           classname={"text-center"}
