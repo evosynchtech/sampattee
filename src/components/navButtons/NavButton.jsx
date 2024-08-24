@@ -5,7 +5,7 @@ function NavButton({ onClick, title, classname, navigateTo, linkTo }) {
   return (
     <div
       onClick={onClick}
-      class={`font-poppins cursor-pointer uppercase duration-150 border-0 py-1 px-4 focus:outline-none hover:bg-gray-800 rounded text-lg${
+      class={`font-poppins cursor-pointer uppercase flex justify-center items-center duration-150 border-0 py-1 px-2 focus:outline-none hover:bg-gray-800 rounded text-sm${
         classname ? " " + classname : ""
       }`}
     >

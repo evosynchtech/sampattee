@@ -5,6 +5,7 @@ import Navbar from "./components/navbar/Navbar";
 import Footer from "./components/footer/Footer";
 import ShowProperty from "./pages/ShowProperty";
 import About from "./pages/About";
+import ShowPlaceWise from "./pages/ShowPlaceWise";
 
 function App() {
   return (
@@ -13,7 +14,8 @@ function App() {
         <Navbar />
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/property" element={<ShowProperty />} />
+          <Route path="/property/:id" element={<ShowProperty />} />
+          <Route path="/place/:id" element={<ShowPlaceWise />} />
           <Route path="/about" element={<About />} />
         </Routes>
         <Footer />

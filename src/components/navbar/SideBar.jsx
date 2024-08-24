@@ -35,7 +35,7 @@ function SideBar({ isMounted, unMount }) {
       } w-full h-full bg-black duration-300`}
     >
       <div className="sidebar-navbar w-full flex flex-row justify-center border-b border-b-slate-300">
-        <div className="px-4 w-[80%] flex justify-between">
+        <div className="px-4 w-[90%] flex justify-between">
           <Link className="flex flex-row items-center" to={"/"}>
             <div className="h-full flex items-center">
               <img
@@ -59,6 +59,36 @@ function SideBar({ isMounted, unMount }) {
           title={"Home"}
           navigateTo={"/"}
           classname={"text-center"}
+        />
+        <NavButton
+          onClick={unMount}
+          title={"Kharar"}
+          navigateTo={"/place/kharar"}
+          classname={"mx-1 text-lg"}
+        />
+        <NavButton
+          onClick={unMount}
+          title={"New Chandigarh"}
+          navigateTo={"/place/new_chandigarh"}
+          classname={"mx-1 text-lg"}
+        />
+        <NavButton
+          onClick={unMount}
+          title={"Zirakpur"}
+          navigateTo={"/place/zirakpur"}
+          classname={"mx-1 text-lg"}
+        />
+        <NavButton
+          onClick={unMount}
+          title={"Dera Bassi"}
+          navigateTo={"/place/dera_bassi"}
+          classname={"mx-1 text-lg"}
+        />
+        <NavButton
+          onClick={unMount}
+          title={"Banur"}
+          navigateTo={"/place/banur"}
+          classname={"mx-1 text-lg"}
         />
         <NavButton
           onClick={unMount}

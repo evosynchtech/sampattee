@@ -1,11 +1,17 @@
-import React from "react";
+import React, { useEffect } from "react";
 import PropertyCarousel from "../components/carousel/property/PropertyCarousel";
 import { GrLocation } from "react-icons/gr";
 import { TbToolsKitchen3 } from "react-icons/tb";
 import { LiaBedSolid } from "react-icons/lia";
 import { MdBedroomBaby } from "react-icons/md";
+import { useParams } from "react-router-dom";
 
 function ShowProperty() {
+  const name = useParams();
+  useEffect(() => {
+    console.log(name.id);
+  }, []);
+
   return (
     <div className="property-container w-full bg-black flex flex-col items-center justify-center">
       <div className="max-w-[1000px] bg-gray-950 rounded-xl px-6">
@@ -65,10 +71,26 @@ function ShowProperty() {
           </h1>
           <p className="text-white font-light ">
             <ul className="list-disc pl-4">
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, neque? Voluptas eaque culpa, laudantium sequi dicta cum suscipit tempore quasi?</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, neque? Voluptas eaque culpa, laudantium sequi dicta cum suscipit tempore quasi?</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, neque? Voluptas eaque culpa, laudantium sequi dicta cum suscipit tempore quasi?</li>
-                <li>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis, neque? Voluptas eaque culpa, laudantium sequi dicta cum suscipit tempore quasi?</li>
+              <li>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis,
+                neque? Voluptas eaque culpa, laudantium sequi dicta cum suscipit
+                tempore quasi?
+              </li>
+              <li>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis,
+                neque? Voluptas eaque culpa, laudantium sequi dicta cum suscipit
+                tempore quasi?
+              </li>
+              <li>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis,
+                neque? Voluptas eaque culpa, laudantium sequi dicta cum suscipit
+                tempore quasi?
+              </li>
+              <li>
+                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nobis,
+                neque? Voluptas eaque culpa, laudantium sequi dicta cum suscipit
+                tempore quasi?
+              </li>
             </ul>
           </p>
         </div>

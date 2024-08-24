@@ -18,7 +18,7 @@ function Navbar() {
   return (
     <>
       <div className="w-full bg-black flex justify-center">
-        <div class="nav-container items-stretch px-4 flex justify-between w-[90%] sm:w-[80%]">
+        <div class="nav-container items-stretch px-4 flex justify-between w-[90%] lg:w-[95%]">
           <Link to="/" className=" flex flex-row items-center">
             <div className="h-full flex items-center">
               <img className="h-[70%]" src="/assets/sampatteeLogo.jpg" alt="Sampattee" />
@@ -31,8 +31,28 @@ function Navbar() {
               classname={"mx-1 text-lg"}
             />
             <NavButton
-              title={"About"}
-              navigateTo={"/about"}
+              title={"Kharar"}
+              navigateTo={"/place/kharar"}
+              classname={"mx-1 text-lg"}
+            />
+            <NavButton
+              title={"New Chandigarh"}
+              navigateTo={"/place/new_chandigarh"}
+              classname={"mx-1 text-lg"}
+            />
+            <NavButton
+              title={"Zirakpur"}
+              navigateTo={"/place/zirakpur"}
+              classname={"mx-1 text-lg"}
+            />
+            <NavButton
+              title={"Dera Bassi"}
+              navigateTo={"/place/dera_bassi"}
+              classname={"mx-1 text-lg"}
+            />
+            <NavButton
+              title={"Banur"}
+              navigateTo={"/place/banur"}
               classname={"mx-1 text-lg"}
             />
             <NavButton

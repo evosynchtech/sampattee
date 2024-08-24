@@ -1,4 +1,4 @@
-@media (max-width: 880px) {
+@media (max-width: 1024px) {
     .lower-navbar{
       display: none !important;
     }
@@ -9,7 +9,7 @@
       background-color: white !important;
     }
   }
-  @media (min-width: 880px) {
+  @media (min-width: 1024px) {
     .lower-navbar{
       display: flex !important;
     }
