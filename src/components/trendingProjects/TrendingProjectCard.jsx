@@ -2,7 +2,7 @@ import React from "react";
 
 function TrendingProjectCard({imgUrl, title, description}) {
   return (
-    <div class="swiper-slide">
+    <div class="swiper-slide bg-black cursor-pointer">
       <div class="trending-project-card overflow-hidden rounded-[10px] relative w-full h-full">
         <div class="trending-project-card-item flex justify-center w-full h-full group">
           <img

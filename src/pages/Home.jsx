@@ -13,6 +13,7 @@ function Home() {
       <HeroCarousel />
       <About />
       <FeaturedProperties />
+      <TrendingProjects />
     </>
   );
 }

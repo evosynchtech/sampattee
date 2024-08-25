@@ -2,39 +2,23 @@ import React from "react";
 import FeaturedPropertyCard from "./FeaturedPropertyCard";
 import FeaturedPropertySection from "./FeaturedPropertySection";
 import Title from "../title/Title";
+import placeWise from "../../data/placeWise";
 
 function FeaturedProperties() {
   return (
     <div class="w-full -mt-1 mx-auto py-10 px-5 bg-black">
       <Title title={"Featured Properties"} />
-      <FeaturedPropertySection >
-        <FeaturedPropertyCard
-          description={
-            "Developed by Harmony Colonizers Pvt Ltd, Imperial Apartments in Zirakpur are known for their high quality and affordability."
-          }
-          title={"Harmony Imperial Apartments: Luxury Lifestyle"}
-          imgUrl={
-            "https://media.istockphoto.com/id/1165384568/photo/europe-modern-complex-of-residential-buildings.jpg?s=612x612&w=0&k=20&c=iW4NBiMPKEuvaA7h8wIsPHikhS64eR-5EVPfjQ9GPOA="
-          }
-        />
-        <FeaturedPropertyCard
-          description={
-            "Developed by Harmony Colonizers Pvt Ltd, Imperial Apartments in Zirakpur are known for their high quality and affordability."
-          }
-          title={"Harmony Imperial Apartments: Luxury Lifestyle"}
-          imgUrl={
-            "https://media.istockphoto.com/id/1165384568/photo/europe-modern-complex-of-residential-buildings.jpg?s=612x612&w=0&k=20&c=iW4NBiMPKEuvaA7h8wIsPHikhS64eR-5EVPfjQ9GPOA="
-          }
-        />
-        <FeaturedPropertyCard
-          description={
-            "Developed by Harmony Colonizers Pvt Ltd, Imperial Apartments in Zirakpur are known for their high quality and affordability."
-          }
-          title={"Harmony Imperial Apartments: Luxury Lifestyle"}
-          imgUrl={
-            "https://media.istockphoto.com/id/1165384568/photo/europe-modern-complex-of-residential-buildings.jpg?s=612x612&w=0&k=20&c=iW4NBiMPKEuvaA7h8wIsPHikhS64eR-5EVPfjQ9GPOA="
-          }
-        />
+      <FeaturedPropertySection>
+        {Object.values(placeWise).map(
+          (place) =>
+            place.length > 1 && (
+              <FeaturedPropertyCard
+                description={place[1].description}
+                title={place[0].title}
+                imgUrl={`assets/places/${place[0].imgUrl}`}
+              />
+            )
+        )}
       </FeaturedPropertySection>
     </div>
   );
