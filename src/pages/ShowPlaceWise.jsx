@@ -18,7 +18,7 @@ function ShowPlaceWise({placeWiseProperty, placeName}) {
     <div className="place-wise-property-container w-full bg-black flex flex-col items-center justify-center">
       <div className="max-w-[1000px] bg-gray-950 rounded-xl px-6">
         <div className="w-full my-4">
-          <h1 className="mb-4 w-full capitalize text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+          <h1 className="mb-4 w-full capitalize text-3xl lg:text-4xl tracking-tight font-extrabold text-white">
             {placeName}
           </h1>
         </div>

@@ -5,13 +5,13 @@ function About() {
     <div className="property-container w-full bg-black flex flex-col items-center justify-center">
       <div className="max-w-[1000px] bg-gray-950 rounded-xl px-6">
         <div className="w-full py-4">
-          <h1 className="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+          <h1 className="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-white">
             About Sampattee
           </h1>
         </div>
         <div className="w-full sm:px-4 py-4">
           <p className="text-white py-4">
-            SAMPATTEE (सम्पति) catering to the Tricity Real Estate! We are a
+            SAMPATTEE catering to the Tricity Real Estate! We are a
             team of experienced and dedicated real estate professionals who are
             committed to helping you buy, sell, or rent properties in Tricity
           </p>

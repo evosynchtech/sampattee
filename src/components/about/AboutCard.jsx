@@ -4,7 +4,7 @@ function AboutCard({ category, days, title, description }) {
   return (
     <article class="p-6 bg-black rounded-lg border border-white shadow-md">
       <div class="flex justify-between items-center mb-5 text-gray-500">
-        <span class="bg-primary-100 text-primary-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded dark:bg-primary-200 dark:text-primary-800">
+        <span class="bg-primary-100 text-primary-800 text-xs font-medium inline-flex items-center px-2.5 py-0.5 rounded">
           <svg
             class="mr-1 w-3 h-3"
             fill="currentColor"
@@ -22,10 +22,10 @@ function AboutCard({ category, days, title, description }) {
         </span>
         <span class="text-sm">{days}</span>
       </div>
-      <h2 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+      <h2 class="mb-2 text-2xl font-bold tracking-tight text-white">
         <a href="#">{title}</a>
       </h2>
-      <p class="mb-5 font-light text-gray-500 dark:text-gray-400">
+      <p class="mb-5 font-light text-gray-500">
         {description}
       </p>
       <div class="flex justify-between items-center">
