@@ -4,16 +4,15 @@ import Button from "../components/buttons/Button";
 import data from "../data/Data";
 import placeWise from "../data/placeWise";
 
-function ShowPlaceWise() {
+function ShowPlaceWise({placeWiseProperty, placeName}) {
   let [filteredData, setFilteredData] = useState([]);
-  let [place, setPlace] = useState("");
-  const param = useParams();
-  let placeName = param.id;
-  setPlace(placeName);
-  useEffect(() => {
-    setFilteredData(placeWise[placeName]);
-  }, []);
-  console.log(filteredData);
+  // let [place, setPlace] = useState("");
+
+  // useEffect(() => {
+  //   setPlace(placeName);
+  //   // window.location.reload();
+  //   setFilteredData(placeWise[placeName]);
+  // }, []);
   placeName = placeName.split("_").join(" ");
   return (
     <div className="place-wise-property-container w-full bg-black flex flex-col items-center justify-center">
@@ -23,18 +22,21 @@ function ShowPlaceWise() {
             {placeName}
           </h1>
         </div>
-        {filteredData.length > 0 &&
-          filteredData.map((data) => (
+        {placeWiseProperty &&
+          placeWiseProperty.length > 0 &&
+          placeWiseProperty.map((data) => (
             <>
               <div className="w-full my-4 sm:my-8">
-                <div class="p-4 bg-black rounded-xl border border-white">
-                  <div class="h-full flex sm:flex-row flex-col sm:items-start items-center sm:justify-start justify-center text-center sm:text-left">
-                    <img
-                      alt="team"
-                      class="flex-shrink-0 rounded-lg w-48 h-48 object-cover object-center sm:mb-0 mb-4"
-                      src={`/assets/${placeName}/.jpg`}
-                    />
-                    <div class="flex flex-col gap-2 sm:pl-8">
+                <div class="p-4 w-full bg-black rounded-xl border border-white">
+                  <div class="h-full flex w-full sm:flex-row flex-col sm:items items-center sm:justify-start justify-center text-center sm:text-left">
+                    <div className="h-full w-1/5 flex items-center">
+                      <img
+                        alt="team"
+                        class="w-[200px] object-cover object-center sm:mb-0 mb-4"
+                        src={`/assets/places/${data.imgUrl}`}
+                      />
+                    </div>
+                    <div class="flex w-full flex-col gap-2 sm:pl-8">
                       <h2 class="title-font font-medium text-lg text-white">
                         {data.title}
                       </h2>
