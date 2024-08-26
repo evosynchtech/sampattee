@@ -9,14 +9,21 @@ function FeaturedProperties() {
     <div class="w-full -mt-1 mx-auto py-10 px-5 bg-black">
       <Title title={"Featured Properties"} />
       <FeaturedPropertySection>
-        {Object.values(placeWise).map(
-          (place) =>
-            place.length > 1 && (
-              <FeaturedPropertyCard
-                description={place[1].description}
-                title={place[0].title}
-                imgUrl={`assets/places/${place[0].imgUrl}`}
-              />
+        {Object.keys(placeWise).map(
+          (propertiesArray) =>
+            placeWise[propertiesArray].length > 0 &&
+            placeWise[propertiesArray].map(
+              (properties, indx) =>
+                indx < 3 && (
+                  <>
+                    <h1 className="text-white bg-red-950">{indx}</h1>
+                    <FeaturedPropertyCard
+                      description={properties.description}
+                      title={properties.title}
+                      imgUrl={`assets/places/${properties.imgUrl}`}
+                    />
+                  </>
+                )
             )
         )}
       </FeaturedPropertySection>
