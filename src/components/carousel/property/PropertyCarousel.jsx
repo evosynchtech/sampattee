@@ -8,7 +8,7 @@ import "swiper/css";
 import "./styles.css";
 import CarouselSlide from "../CarouselSlide";
 
-function PropertyCarousel() {
+function PropertyCarousel({Imgs}) {
   return (
     <>
       <Swiper

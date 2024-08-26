@@ -4,7 +4,7 @@ import Button from "../components/buttons/Button";
 import data from "../data/Data";
 import placeWise from "../data/placeWise";
 
-function ShowPlaceWise({placeWiseProperty, placeName}) {
+function ShowPlaceWise({ placeWiseProperty, placeName }) {
   let [filteredData, setFilteredData] = useState([]);
   // let [place, setPlace] = useState("");
 
@@ -13,13 +13,12 @@ function ShowPlaceWise({placeWiseProperty, placeName}) {
   //   // window.location.reload();
   //   setFilteredData(placeWise[placeName]);
   // }, []);
-  placeName = placeName.split("_").join(" ");
   return (
     <div className="place-wise-property-container w-full bg-black flex flex-col items-center justify-center">
       <div className="max-w-[1000px] bg-gray-950 rounded-xl px-6">
         <div className="w-full my-4">
           <h1 className="mb-4 w-full capitalize text-3xl lg:text-4xl tracking-tight font-extrabold text-white">
-            {placeName}
+            {placeName.split("_").join(" ")}
           </h1>
         </div>
         {placeWiseProperty &&
@@ -44,7 +43,12 @@ function ShowPlaceWise({placeWiseProperty, placeName}) {
                         {data.description}
                       </p>
                       <div class="inline-flex">
-                        <Button width={30} title={"Read More"} marginX={2} />
+                        <Button
+                          to={`${data.id}`}
+                          width={30}
+                          title={"Read More"}
+                          marginX={2}
+                        />
                       </div>
                     </div>
                   </div>

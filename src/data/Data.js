@@ -1,8 +1,9 @@
 const data = {
   banur: [
     {
+      id: "chandigarh-royal-city",
       title: "Chandigarh Royale City (Details & Prices)- Banur",
-      heroImg: "chandigarh-royal-city.jpg",
+      Imgs: "chandigarh-royal-city.jpg",
       sections: [
         {
           type: "paras",
