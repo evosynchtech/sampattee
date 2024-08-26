@@ -16,7 +16,7 @@ function FeaturedProperties() {
               (properties, indx) =>
                 indx < 3 && (
                   <>
-                    <h1 className="text-white bg-red-950">{indx}</h1>
+                    {/* <h1 className="text-white bg-red-950">{indx}</h1> */}
                     <FeaturedPropertyCard
                       description={properties.description}
                       title={properties.title}
