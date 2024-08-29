@@ -12,6 +12,7 @@ function Home() {
     <>
       <HeroCarousel />
       <About />
+      <ChooseProperty />
       <FeaturedProperties />
       <TrendingProjects />
     </>

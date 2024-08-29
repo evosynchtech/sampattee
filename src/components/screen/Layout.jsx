@@ -11,9 +11,9 @@ function Layout({ children }) {
       <a
         target="_blank"
         href="https://wa.me/+919019000530"
-        className="fixed bg-[#25d366] text-white font-bold sm:p-5 p-3 rounded-full bottom-5 right-5 z-10"
+        className="fixed bg-[#25d366] hover:bg-[rgb(75,212,125)] hover:scale-[1.09] duration-150 text-white font-bold sm:p-4 p-2 rounded-full bottom-5 right-5 z-10"
       >
-        <div className="sm:text-5xl text-3xl">
+        <div className="text-3xl">
           <BsWhatsapp />
         </div>
       </a>

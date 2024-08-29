@@ -4,7 +4,7 @@ import Button from "../buttons/Button";
 
 function Footer() {
   return (
-    <footer class="text-white pt-5 text-center bg-black">
+    <footer id="footer" class="text-white pt-5 text-center bg-black">
       <div class="md:flex-row flex flex-col-reverse justify-between px-[50px]">
         <div class="w-full md:max-w-[50%]">
           <div class="flex flex-col w-full items-start">

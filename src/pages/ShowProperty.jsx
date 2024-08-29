@@ -11,7 +11,7 @@ function ShowProperty({ data }) {
     <div className="property-container w-full bg-black flex flex-col items-center justify-center">
       <div className="max-w-[1000px] bg-gray-950 rounded-xl px-6">
         <div className="w-full py-4">
-          <h1 className="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">
+          <h1 className="mb-4 text-3xl lg:text-4xl tracking-tight font-extrabold text-white">
             Property Details
           </h1>
         </div>
@@ -19,7 +19,7 @@ function ShowProperty({ data }) {
           <PropertyCarousel />
         </div>
         <div className="w-full py-4">
-          <h1 className="mb-4 text-3xl lg:text-4xl tracking-tight font-bold text-gray-900 dark:text-white">
+          <h1 className="mb-4 text-3xl lg:text-4xl tracking-tight font-bold text-white">
             {data.title}
           </h1>
         </div>
@@ -27,7 +27,7 @@ function ShowProperty({ data }) {
           {data.sections.map((section) => (
             <>
               {section.heading && (
-                <h1 className="mb-4 text-xl lg:text-2xl tracking-tight font-bold text-gray-900 dark:text-white">
+                <h1 className="mb-4 text-xl lg:text-2xl tracking-tight font-bold text-white">
                   {section.heading}
                 </h1>
               )}
