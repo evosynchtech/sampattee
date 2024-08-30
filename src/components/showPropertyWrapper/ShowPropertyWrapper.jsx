@@ -15,7 +15,7 @@ function ShowPropertyWrapper({ place }) {
 
   return (
     <div>
-      <ShowProperty data={propertyData[0]} />
+      <ShowProperty data={propertyData[0]} place={place} />
     </div>
   );
 }

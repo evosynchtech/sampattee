@@ -10,24 +10,28 @@ const placeWise = {
   ],
   dera_bassi: [
     {
+      id: "motia-chandigarh-hills-dera-bassi",
       title: "Motia Chandigarh Hills (Price & Project Details) – Dera Bassi",
       imgUrl: "dera_bassi/About-Gulmohar-City/gulmohar-city-1.png",
       description:
         "Motia Chandigarh Hills Dera Bassi is undoubtedly one of the most sought-after residential societies in the area. It is situated at a distance of merely 2 minutes from the Chandigarh-Ambala highway. Spanning over 13 acres of land, the society offers residents a peaceful and serene environment. The lavish property is ideal for keeping you away from the hustle and bustle of city life. With all plots being Vastu compliant and Either North-facing or East-facing, the society is an ideal choice for those looking to build their dream home.",
     },
     {
+      id:"sbp-housing-park",
       title: "SBP Housing Park (1/2/3 BHK Apartments & Prices)- Dera Bassi",
       imgUrl: "dera_bassi/SBP-Housing-Park/SBP-Housing-Park-780x470.jpg",
       description:
-        "For the luxurious and cosmopolitan lifestyle that you imagine for yourself and your family, SBP brings Housing Park to Derabassi- the industrial belt of Tricity. This 20-acre project offers not only futuristic designs but also ensures that one enjoys living close to nature every second of their life.",
+      "For the luxurious and cosmopolitan lifestyle that you imagine for yourself and your family, SBP brings Housing Park to Derabassi- the industrial belt of Tricity. This 20-acre project offers not only futuristic designs but also ensures that one enjoys living close to nature every second of their life.",
     },
     {
+      id:"sbp-housing-park",
       title: "SBP Housing Park (1/2/3 BHK Apartments & Prices)- Dera Bassi",
       imgUrl: "dera_bassi/SBP-Housing-Park/SBP-Housing-Park-780x470.jpg",
       description:
-        "For the luxurious and cosmopolitan lifestyle that you imagine for yourself and your family, SBP brings Housing Park to Derabassi- the industrial belt of Tricity. This 20-acre project offers not only futuristic designs but also ensures that one enjoys living close to nature every second of their life.",
+      "For the luxurious and cosmopolitan lifestyle that you imagine for yourself and your family, SBP brings Housing Park to Derabassi- the industrial belt of Tricity. This 20-acre project offers not only futuristic designs but also ensures that one enjoys living close to nature every second of their life.",
     },
     {
+      id:"kings_valley_by_ubber",
       title: "Kings Valley by Ubber (Project Details & Prices)- Derabassi",
       imgUrl:
         "dera_bassi/Kings-Valley-by-Ubber/Kings-Valley-feature-image-2.jpg",
@@ -35,6 +39,7 @@ const placeWise = {
         "For those who love to live the grand life like kings and queens, Ubber Buildcon presents Kings Valley in Derabassi. This property presents residential plots that let you build the home you always wanted.",
     },
     {
+      id:"ats-golf-meadows",
       title: "ATS Golf Meadows, Dera Bassi",
       imgUrl: "dera_bassi/ATS-Golf-Meadows/ats-golf-meadows-5-banner.jpg",
       description:

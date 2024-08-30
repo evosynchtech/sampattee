@@ -1,12 +1,7 @@
 import React, { useEffect } from "react";
 import PropertyCarousel from "../components/carousel/property/PropertyCarousel";
-import { GrLocation } from "react-icons/gr";
-import { TbToolsKitchen3 } from "react-icons/tb";
-import { LiaBedSolid } from "react-icons/lia";
-import { MdBedroomBaby } from "react-icons/md";
-import { useParams } from "react-router-dom";
 
-function ShowProperty({ data }) {
+function ShowProperty({ data, place }) {
   return (
     <div className="property-container w-full bg-black flex flex-col items-center justify-center">
       <div className="max-w-[1000px] bg-gray-950 rounded-xl px-6">
@@ -16,7 +11,7 @@ function ShowProperty({ data }) {
           </h1>
         </div>
         <div className="w-full rounded-xl overflow-hidden">
-          <PropertyCarousel />
+          <PropertyCarousel Imgs={data.Imgs} place={place} />
         </div>
         <div className="w-full py-4">
           <h1 className="mb-4 text-3xl lg:text-4xl tracking-tight font-bold text-white">
@@ -41,13 +36,21 @@ function ShowProperty({ data }) {
                 <>
                   {Object.keys(section.values).map((value) => (
                     <div className="flex flex-row">
-                      <p className="text-white font-light mb-4">
+                      <p className="text-white capitalize font-light mb-4">
                         {value.split("_").join(" ")}
                       </p>
                       <span className="text-white mx-2">:</span>
                       <p className="text-white font-light mb-4">
                         {section.values[value]}
                       </p>
+                    </div>
+                  ))}
+                </>
+              ) : section.type == "list" ? (
+                <>
+                  {section.items.map((value) => (
+                    <div className="flex flex-col">
+                      <li className="text-white font-light mb-4">{value}</li>
                     </div>
                   ))}
                 </>

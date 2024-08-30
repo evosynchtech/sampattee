@@ -8,7 +8,7 @@ import "swiper/css";
 import "./styles.css";
 import CarouselSlide from "../CarouselSlide";
 
-function PropertyCarousel({Imgs}) {
+function PropertyCarousel({ Imgs, place }) {
   return (
     <>
       <Swiper
@@ -23,27 +23,11 @@ function PropertyCarousel({Imgs}) {
         }}
         className="hero-carousel-swiper"
       >
-        <SwiperSlide>
-          <CarouselSlide
-            ImgUrl={
-              "/assets/properties/property_1.jpg"
-            }
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <CarouselSlide
-            ImgUrl={
-              "/assets/properties/property_2.jpg"
-            }
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <CarouselSlide
-            ImgUrl={
-              "/assets/properties/property_3.jpg"
-            }
-          />
-        </SwiperSlide>
+        {Imgs.map((img) => (
+          <SwiperSlide>
+            <CarouselSlide ImgUrl={`/assets/places/${place}/${img}`} />
+          </SwiperSlide>
+        ))}
 
         <div class="swiper-pagination"></div>
 
