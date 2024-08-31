@@ -115,18 +115,21 @@ const placeWise = {
   ],
   kharar: [
     {
+      id: "pnb_picasso_kharar",
       title: "PNB Picasso Floors (Price & Project Details) – Kharar",
       imgUrl: "kharar/PNB-Picasso/PNB-Picasso-Feature-image-780x439.jpg",
       description:
-        "Do you ever wish to live a life of luxury? Well, your search ends here! Introducing PNB Picasso Floors – a unique and innovative offering that provides luxurious and affordable flats in Mohali. This property offers panoramic views of the bustling city skyline from the comfort of your home. What’s more interesting is that the property is exceptionally affordable 1BHK and 2BHK independent floors.",
+      "Do you ever wish to live a life of luxury? Well, your search ends here! Introducing PNB Picasso Floors – a unique and innovative offering that provides luxurious and affordable flats in Mohali. This property offers panoramic views of the bustling city skyline from the comfort of your home. What’s more interesting is that the property is exceptionally affordable 1BHK and 2BHK independent floors.",
     },
     {
+      id: "palm-village-kharar",
       title: "Palm Village -Project Details, Specifications, and Features",
       imgUrl: "kharar/Palm-Village/feature-palm-780x470.png",
       description:
         "Palm Village is a residential project by Bee Gee Buildtech in Kharar Mohali. It has apartments with a perfect combination of contemporary infrastructure and amenities to provide comfortable living.",
     },
     {
+      id: "mvd-nature-city-kharar",
       title: "MVD Nature City (Price & Project Details)- Kharar",
       imgUrl:
         "kharar/MVD-Nature-City/Feature-image-MVD-Nature-city-780x470.jpg",
@@ -134,12 +137,14 @@ const placeWise = {
         "Ever wondered if luxury and budget could go hand in hand? MVD Nature City Kharar could be exactly what you’ve been looking for. Spread over 2 acres, it is a beautiful 2BHK and 3BHK residential project by MVD Buildwell Private Limited. The well-planned layouts, open spaces, and easy access to all conveniences make this property an ideal place to call home.",
     },
     {
+      id:"aroma-heights-kharar",
       title: "Aroma Heights (Price & Project Details) – Kharar",
       imgUrl: "kharar/Aroma-Heights/Aroma-heights-Feature-image.jpg",
       description:
         "Aroma Heights has been one of the most inspiring ventures when it comes to providing privileges and luxuries. The housing project is a dream home for those looking for a luxurious lifestyle. Developed by Aroma Developers, the residency offers exclusive 2 and 3 BHK apartments.",
     },
     {
+      id: "ubber-mews-gate",
       title: "Ubber Mews Gate- Project Details, Amenities, and Locality",
       imgUrl: "kharar/Ubber-Mews-Gate/feature-image-mews-780x470.jpg",
       description:

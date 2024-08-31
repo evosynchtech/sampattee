@@ -492,7 +492,446 @@ const data = {
       ],
     },
   ],
-  kharar: [],
+  kharar: [
+    {
+      id: "pnb_picasso_kharar",
+      title: "PNB Picasso Floors (Price & Project Details) – Kharar",
+      Imgs: ["PNB-Picasso/PNB-Picasso-Feature-image-780x439.jpg"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Have you ever wanted to lead an opulent life? Fortunately, your quest is over! Presenting PNB Picasso Floors, a distinctive and cutting-edge project that offers opulent yet reasonably priced apartments in Mohali. From the comfort of your home, enjoy expansive views of the vibrant metropolitan skyline with this property. Even more intriguing is the property's incredibly low price for 1BHK and 2BHK independent floors.",
+            "Notable locations around PNB Picasso Floors include the Kharar bus station, schools, hospitals, etc. Picasso Floors offers options for everyone, whether you're searching for an investment or a cozy place to call home.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "PNB Group",
+            project_site_location:
+              "Kharar – Landran Rd, Sector 127, Main Bazar, Kharar, Mohali",
+            residency_type: "1 and 2 BHK independent floors",
+            Prices_at_PNB_picasso_floors: "",
+            "1_BHK_independent_floor": "₹12.67 lac onwards",
+            "2_BHK_independent_floor": "₹19.8 lac onwards",
+          },
+        },
+        {
+          type: "paras",
+          heading: "Pros at PNB Picasso Floors",
+          para: [
+            "Situated on Kharar-Landran Road, The PNB Picasso Floors is a residential building that perfectly combines modern elements and architecture. The company offers floor designs that range in size from 53.51 square meters to 83.61 square meters. There are 250 flats total and they are built on two storeys. Additionally, the Punjabi government has legally sanctioned this colony. ",
+            "The PNB Picasso Floors master plan Vastu Shastra principles are used into the designs of Kharar. It guarantees that the people living in this society will experience wealth and pleasure. There is an ample water supply system in this township to guarantee that there are never any water shortages for the locals. With its spacious roadways and lush surroundings, its prominent position in Kharar makes it the perfect place for urban residents to call home.",
+            "Other amenities and facilities in the colony include clubhouse, gated security, business SCOs, etc. Additionally, the main market is 1.50 kilometers away and the Kharar bus stop is only 8 minutes away. PNB Picasso is a great choice for your family because it offers a ton of benefits and features.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "About the Builder – PNB Group",
+          para: [
+            "Proud Nature Buildtech Pvt. Ltd. was founded with the intention of bringing people's ideas to life and improving the conditions in which they can work, live, and raise their children. With an emphasis on infrastructural, residential, and commercial buildings, the company excels in integrated design, engineering, construction, and project management. ",
+            "PNB Group is pleased to present to its clients finished projects that combine exceptional engineering expertise with creative problem-solving abilities, utilizing both labor and resources. For a competitive advantage, they create synergies, forward and backward integrations, and strategic innovations in every aspect of their business. PNB Group is pleased to be a leader in its industry today, producing projects of the highest caliber that enhance the lives of people they assist.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Buying an Independent Floor at PNB Picasso Floors",
+          para: [
+            "The PNB Picasso Floors project in Kharar was designed with modern purchasers in mind. The home is surrounded by a tranquil setting and is situated in a well-connected area. ",
+            "Every floor has been thoughtfully planned to provide the highest level of seclusion and is furnished with all the contemporary conveniences one might want for a comfortable stay. PNB Picasso Floors Kharar offers the best amenities and an excellent location, making it the ideal place to call home.",
+            "Please visit the builder's website or contact them with any more questions you may have.",
+          ],
+        },
+      ],
+    },
+    {
+      id: "palm-village-kharar",
+      title: "Palm Village -Project Details, Specifications, and Features",
+      Imgs: [
+        "Palm-Village/feature-palm-780x470.png",
+        "Palm-Village/3-BHK-1900-m1.jpg",
+        "Palm-Village/3-bhk-2000-m2.png",
+        "Palm-Village/3-BHK-2180-m3.jpg",
+        "Palm-Village/3-BHK-2250-m4.jpg",
+      ],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Bee Gee Buildtech is constructing Palm Village, a residential property in Kharar, Mohali. Its flats offer the ideal fusion of modern conveniences and infrastructure to make life comfortable. ",
+            "Imagine having a house that is reasonably priced and has all the amenities needed to lead a luxurious lifestyle. What would it feel like? It will indeed feel like bliss. And that's how each day dawning in Palm Village Kharar feels. In addition to this, this residential community has a number of additional appealing aspects. However, it's important to take a step into the shallows before jumping into the deep end.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details- Palm Village",
+          values: {
+            builder_name: "Bee Gee Buildtech",
+            project_status: "Ready to Move",
+            apartment_type: "3 BHK",
+            rera_number: "PBRERA-SAS80-PR0103",
+            total_project_area: "7 Acres",
+            price_range: "62.00 L to 65.00 L",
+            size_range: "135.64 Sq. mt – 397.62 Sq. mt",
+            address:
+              "Sector 126, Model Town, Sahibzada Ajit Singh Nagar, Punjab 140301",
+          },
+        },
+        {
+          type: "list",
+          heading: "Windows and Doors",
+          para: [
+            "UPVC finishes on the exterior windows and walls.",
+            "Flush doors with matte polish in the living room.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Flooring",
+          items: [
+            "Poyer Rustic and Coto series stone finishing at the entrance and balconies",
+            "Italian finished engineered stone tiles in the living room",
+            "Premium vitrified tiles in dining and family lounge",
+            "Anti-skid tiles in the kitchen and washrooms",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Skirting",
+          items: [
+            "Indian Granite at entrance, kitchen, dining, and family lounge",
+            "Italian Stone skirting in the living room",
+            "Laminated wooden skirting in the bedrooms",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Walls",
+          items: [
+            "Exterior grade paint on the entrance",
+            "Welcoming shades of acrylic emulsion and vinyl wallpaper in the living room",
+            "Conceal shade of emulsion in dining and family lounge with matching vinyl wallpaper",
+            "Premium vitrified tiles 2 feet above the counter in the kitchen",
+            "Vitrified tiles with Italian stone edging in the washroom",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Ceiling",
+          items: [
+            "Exterior grade paint at entrance and balconies",
+            "False ceilings in the living room, dining, and family lounge",
+            "POP Edge cornices finished with OBD in bedrooms and kitchen",
+          ],
+        },
+        {
+          type: "list",
+          heading: "CP and Sanitary",
+          items: [
+            "Kohler CO fittings in the kitchen",
+            "Kohler SP and sanitary ware in washrooms",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Why Palm Village?",
+          para: [
+            "Palm Village Kharar should be your first choice if you are willing to live a luxurious lifestyle but at a reasonable price. It is spread over 7 acres with 70% open area. Palm Village Kharar has ten towers with 12 floors and 336 units to offer. And on top of that, it is located in Kharar. This city is rapidly growing and has excellent connectivity with Chandigarh and Mohali. You will be able to get all the essential services within a short distance from the community. If it is not enough, then take a look at the amenities offered by Palm Village.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "Swimming Pool",
+            "RO System",
+            "Terrace Garden",
+            "High-speed Elevators",
+            "Piped Gas",
+            "Water Softener Plant",
+            "Wi-fi Connectivity",
+            "Shopping Centre",
+            "Power Backup Lift",
+            "Rain Water Harvesting",
+            "24/7 Security",
+            "Club House",
+            "Vastu Compliant",
+            "24/7 Power Backup",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Know Your Builder",
+          para: [
+            "Bee Gee Buildtech is a reputable name in the real estate world. This company was established in 2005, and since then, it has been amazing its customers with jaw-dropping architecture and exceptional amenities. The main aim of Bee Gee Buildtech is to provide residential projects with all the essential features at an affordable price. And they have been fulfilling their aim since its inception. Palm Village Kharar is one of the major residential projects by Bee Gee Buildtech.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "",
+          values: {
+            office_address:
+              "SCF 44-45, first floor, sector 9, Panchkula, Haryana",
+            email: "beegeebuildtech@gmail.com",
+            telephone: "0172-4622143",
+            mobile: "+91 92168 05453, +91 92168 05456",
+          },
+        },
+      ],
+    },
+    {
+      id: "mvd-nature-city-kharar",
+      title: "MVD Nature City (Price & Project Details)- Kharar",
+      Imgs: ["MVD-Nature-City/Feature-image-MVD-Nature-city-780x470.jpg"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Have you ever wondered if affordability and luxury might coexist? Perhaps MVD Nature City Kharar is just what you've been searching for. This lovely 2BHK and 3BHK home project by MVD Buildwell Private Limited is situated on 2 acres. This property is a great location to call home because of its well-thought-out layouts, spacious areas, and convenient access to all amenities.",
+            "The abundant recreational options and the natural surroundings are sure to delight families. Professionals would also like Sec-127, Kharar's excellent location because it's close to Chandigarh and other major cities. A comfortable and convenient lifestyle is something that MVD Nature City offers, so give it some thought.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "MVD Buildwell Private Limited",
+            rera_number: "PBRERA-SAS80-PR0620",
+            project_site_location:
+              "H.B. No.184, Teh. Kharar, District SAS Nagar, Mohali",
+            apartment_type: "2 and 3 BHK apartments",
+            Flat_prices_at_MVD_Nature_city: "",
+            "2_BHK": "₹32.9 lac",
+            "3_BHK": "₹39.9 lac to ₹43.89 lac",
+          },
+        },
+        {
+          type: "list",
+          heading: "Windows and Doors",
+          items: [
+            "UPVC finishes on the exterior windows and walls.",
+            "Flush doors with matte polish in the living room.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Pros at MVD Nature City, Kharar",
+          para: [
+            "This residence boasts unmatched architecture and design, with an attention to detail that is unmatched! Along with these intriguing elements, there's an outdoor fitness center, a running track, a children's park, and an area designated for senior relaxation. Regarding the apartments, every house is constructed with the highest level of accountability. Premium Vitrified tiles on every floor give the flat a timeless, long-lasting feel.",
+            "The emulsion paint on the walls and the high-quality wooden shutters on the doors are also stunning. The sturdy architecture of this property allows it to survive earthquakes and other natural disasters. You may enjoy the best of both worlds at MVD Nature City: luxury and convenience.",
+            "For people who wish to live in the middle of nature, MVD Nature City is nirvana. Situated on Kharar-Landran Road, it has grown to be a highly sought-after area for both people and companies. The road is perfect for commuting because it is well-maintained and offers quick access to major roads. It's a wonderful neighborhood to raise a family because it has many hospitals and schools nearby.",
+            "The expansive parks, walkways, and verdant terrain on the property are all within your reach at MVD Nature City! In addition to other necessary amenities, their building provides access to security services around-the-clock. A few kilometers away are the VR Punjab mall, SAS Nagar railway station, CGC Landran, DPS School, Fortis hospital, and ISBT Sec-43.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Other amenities of this society include the following:",
+          items: [
+            "24 hours water supply",
+            "Bus Shelter",
+            "Spacious parking",
+            "24×7 Security System",
+            "Inverter Connection",
+            "Kids park",
+            "A special zone for elders",
+            "Shopping complex",
+            "Water harvesting system",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "About the Builder – MVD Buildwell Private Limited",
+          para: [
+            "EMVD Buildwell Private Limited, one of Mohali's fastest-growing home builders, is working to connect premium residences. This is an aspirational company that aims to offer world-class, reasonably affordable, and well-built homes.",
+            "They think that every family should have access to a reasonably priced home, similar to MVD Nature City in Kharar. As a result, the team puts in a lot of effort every day to help thousands of Indian families realize their ambition.",
+            "Look no farther than MVD Buildwell Private Limited if you're searching for a trustworthy builder in the province of Punjab. Since their establishment, they have made promises to the locals, and they have always fulfilled them!",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Buying an Apartment at MVD Nature City",
+          para: [
+            "MVD Nature City, Kharar, need to be at the top of your list if you're looking for a cozy neighborhood near the outdoors. With its convenient location and roomy units, this development offers something for everyone. For people who like to stay near Chandigarh without being in the bustle of the city, it is ideal. Every unit is extremely well-secured, opulent, and reasonably priced.",
+            "In addition, the Kharar-Landran Road is a popular spot for homes and companies and an important thoroughfare in the Punjab area of India. Purchasing a property in this neighborhood is a wise long-term investment. Your goal of owning this ideal home might come true with simple financing options from many institutions!",
+            "Please visit them for assistance or check out their website for more details on MVD Nature City and other projects by the company.",
+          ],
+        },
+      ],
+    },
+    {
+      id: "aroma-heights-kharar",
+      title: "Aroma Heights (Price & Project Details) – Kharar",
+      Imgs: ["Aroma-Heights/Aroma-heights-Feature-image.jpg"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Regarding advantages and amenities, Aroma Heights has been among the most inspirational projects. For people seeking an opulent lifestyle, the housing complex is their ideal residence. The residence, which was built by Aroma Developers, offers upscale 2 and 3 BHK homes.",
+            "It is the ideal home for the occupants because to the gorgeous architecture, luscious green surroundings, and enthralling interior design. Aroma Heights is a project that embodies sophistication and flair. For those looking for a house in Kharar, Mohali, this hip property is a great place to invest.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "Aroma Developers",
+            project_site_location:
+              "Aroma heights, adjoining Paradise Apartment, Sector 125, Sunny Enclave, Kharar, Mohali",
+            apartment_type: "2 and 3 BHK apartments",
+            flat_prices_at_aroma_heights: "",
+            "2_BHK_apartments_price": "₹42.7 lac onwards",
+            "3_BHK_apartments_price": "₹53.03 lac onwards",
+          },
+        },
+        {
+          type: "para",
+          heading: "Pros at Aroma Heights, Kharar",
+          para: [
+            "Aroma Heights is a magnificent gated community that provides the best of modern life. It offers the ideal environment for a convenient and comfortable lifestyle with its three soaring apartment complexes and lovely landscape garden. The flats are well-designed, roomy, and furnished with all the contemporary conveniences that modern families need. Aroma Heights offers something for everyone, whether you're searching for a place to decompress and unwind or want to stay active and fit.",
+            "Additionally, the developers planned this residential complex with consideration for all of the residents' needs in mind. It features a gorgeous landscape garden for nature lovers and a well-equipped gymnasium for fitness aficionados. For families with young children, there is also a children's play area. The residents of this lovely society can also enjoy the convenience of a lift. In addition, it features a continuous power backup system to guarantee that the power supply is uninterrupted. Parties and activities can be held in the community hall. All things considered, Aroma Heights is a great area to live.",
+            "Regarding the interiors, the flooring is excellent; the main bedroom has hardwood floors, while the dining room, drawing room, and bedrooms have vitrified tiles. With granite countertops and a modular kitchen, this is a chef's dream come true. The bathroom features tile up to the level of the doors and an anti-skid ceramic floor.",
+            "The staircase, which has MS railing and granite flooring, is also very beautiful. In addition, all bedrooms and the living room have phone and TV connections. Should it prove insufficient, the outside has an exceptional paint job. To put it briefly, Aroma Heights is a complete home!",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "About the Builder – Aroma Developers",
+          para: [
+            "One business that is continuously changing the real estate landscape is Aroma Developers. As new projects are undertaken, the standards for quality and client satisfaction are raised. Their business is dedicated to creating cutting-edge environments that will enhance people's lives both now and in the future. Being the greatest in the industry is Aroma Developers' main objective. and for which they put forth endless effort to guarantee that the requirements and expectations of their clients are satisfied.",
+            "Experts in scent development ensure that every aspect is flawless. Their properties are among the most sought-after on the market as a result. Aroma Developers is the ideal choice if you're searching for a business that can deliver you the greatest product available.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Buying an Apartment at Aroma Heights",
+          para: [
+            "One of Kharar's most distinctive and avant-garde residential developments is Aroma Heights. For people who wish to live close to the city yet away from the bustle, the location is ideal. The roomy two and three-bedroom apartments provide a lavish and comfortable lifestyle complete with all the contemporary conveniences.",
+            "A green and sustainable atmosphere is further provided by the rainwater collecting system, sewage treatment plant, and planted garden. For those seeking an incredibly distinctive and exclusive living environment, Aroma Heights is an excellent option.",
+            "Please feel free to visit the Kharar real estate property or get in touch with one of their executives if you have any questions about this project.",
+          ],
+        },
+      ],
+    },
+    {
+      id: "ubber-mews-gate",
+      title: "Ubber Mews Gate- Project Details, Amenities, and Locality",
+      Imgs: ["Ubber-Mews-Gate/feature-image-mews-780x470.jpg"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Ubber Mews Gate, a masterfully crafted work of art to fulfill your dreams. A harmonious blend of plush, calm, and cozy. It has completely raised the bar for modern living by creating an atmosphere ideal for a modern family's way of life.",
+            "This housing society offers a number of contemporary built-in benefits. Its strategic location, European design, and appropriate sizes serve as the cherry on top. Thus, Ubber Mews Gate is the best choice if you're searching for the ideal house to live in with your loved ones. Let's see what else this residential area has to offer.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details- Uber Mews Gate",
+          values: {
+            builder: "Ubber Group",
+            project_status: "Under Construction",
+            possession_initiation: "December 2023",
+            rera_number: "PBRERA-SAS80-PR0197",
+            apartment_types:
+              "2 BHK, 3 BHK, 4 BHK, 3 BHK independent floor, 4 BHK independent floor",
+            size_range: "88.91 sq. mt – 243.4 sq. mt",
+            price_range: "26.22 L – 71.78 L",
+            total_project_area: "7.7 Acres",
+            location: "Kharar",
+          },
+        },
+        {
+          type: "para",
+          heading: "Technical Specifications",
+          para: [
+            "This housing community has six towers with 12 floors and 565 units to offer. The project is spread over 31.16K sq.m. and has 40% open area. Every other key specification is written below.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "",
+          values: {
+            ceiling: "Emulsion/OBD paint with cornice",
+            dressing: "Wooden wardrobe in all bedrooms",
+            flooring:
+              "Anti-skid tiles in washrooms and balconies; premium vitrified tiles in other places",
+            doors_and_windows:
+              "Wooden laminated internal flush doors; UPVC windows with branded glass",
+          },
+        },
+        {
+          type: "list",
+          heading: "Kitchen",
+          items: [
+            "Semi modular kitchen",
+            "Ceramic tiles above the counter, up to 2 ft",
+            "Pre-polished premium granite or composite marble counter",
+            "CP fittings Jaquar/Parryware/Cera",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Washroom",
+          items: [
+            "Anti-skid tiles on walls up to door level",
+            "Jaquar/Cera/Parryware Hindware CP fittings and chinaware",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Balcony",
+          items: ["MS railing", "Waterproof exterior paint"],
+        },
+        {
+          type: "paras",
+          heading: "Why Ubber Mews Gate?",
+          items: [
+            "Everything you need to enjoy a luxurious lifestyle is available in Ubber Mews Gate Kharar, and it is also reasonably priced. It implies that leading a luxurious lifestyle isn't all that costly here. It surpasses the greatest because to its modern European infrastructure and numerous amenities. Ubber Mews Gate offers everything in between, from the clubhouse's excitement to the little library's relaxing atmosphere. The rest of Ubber Mews Gate's salient features are listed below.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Benefits of Location",
+          items: [
+            "The real estate market in Kharar is being driven by the growing job opportunities and modern living; the presence of top-notch healthcare services is also playing a crucial role. Schools, hospitals, educational centers, and supermarkets can be found all over the city, so you won't have to travel far if you need any services.",
+            "Ubber Mews Gate is located in Kharar and has excellent connectivity with Mohali and Chandigarh.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Know Your Builder",
+          items: [
+            "The Ubber Group is responsible for the Ubber Mews Gate project. The name Ubber Group is well-known in the real estate sector. They are renowned for their dependability and cutting-edge infrastructure. They give opulent residential neighborhoods at reasonable costs.",
+            "Ubber Group's current main objective is to build more houses with first-rate infrastructure and contemporary facilities in order to satisfy the demand of its consumers for a luxurious living. The Ubber Group is responsible for the exceptional properties Ubber Palm City and Ubber Palm Meadows.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "The Bottom Line",
+          items: [
+            "It's not simple to live a luxurious lifestyle at a reasonable cost, but Ubber Mews Gate Kharar has made it more accessible. Everything at Ubber Mews Gate is ideal, including the amenities and infrastructure. Get in touch with the builder directly if this property piques your interest and you'd like further information. The details are provided below.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "",
+          values: {
+            office_address:
+              "Ubber Mews Gate, NH21 Kharar Highway, Exit Corridor, Greater Mohali",
+            email: "info.mg@ubbergroup.com",
+            phone: "+91 90695 90695",
+          },
+        },
+      ],
+    },
+  ],
   new_chandigarh: [],
   zirakpur: [],
 };
