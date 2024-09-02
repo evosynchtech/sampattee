@@ -48,6 +48,7 @@ const placeWise = {
   ],
   zirakpur: [
     {
+      id: "harmony-imperial-apartments",
       title: "Harmony Imperial Apartments: Luxury Lifestyle",
       imgUrl:
         "zirakpur/Harmony-Imperial-Apartments/harmony-imperial-apartments1.png",
@@ -55,24 +56,28 @@ const placeWise = {
         "Developed by Harmony Colonizers Pvt Ltd, Imperial Apartments in Zirakpur are known for their high quality and affordability. This real estate company is registered and certified with RERA. Their portfolio includes townships, residential complexes, and premium projects.",
     },
     {
+      id: "ksb-dream-homes",
       title: "KSB Dream Homes (Price & Project Details) – Zirakpur",
       imgUrl: "zirakpur/KSB-Dream-Homes/KSB-Dream-Homes-Feature-Image-2.jpg",
       description:
         "KSB Dream Homes is a much-awaited housing society in Zirakpur, Mohali, that has finally opened its doors to residents. Families looking for a comfortable and fashionable home will find this opulent and roomy building an excellent choice because it provides 3 BHK apartments at very reasonable pricing. All of the social infrastructures in and around the city are easily accessible due to the project’s advantageous location.",
     },
     {
+      id: "ghb-splande-zirakpur",
       title: "GHB Splande -Details, Price, and Everything You Need to Know",
       imgUrl: "zirakpur/GHB-Splande/feature-splande.jpg",
       description:
         "Looking for a better housing community to invest your hard-earned money in? Go no further; check out GHB Splande. It is an under-construction housing society in Zirakpur. There are independent floors and apartments for sale. This community will have all the fundamental amenities and facilities that will perfectly suit your needs.",
     },
     {
+      id: "aster-plaza",
       title: "Aster Plaza: The Future of Commercial Places",
       imgUrl: "zirakpur/Aster-Plaza/feature-aster.jpg",
       description:
         "Aster Plaza is an amalgamation of artistically and practically designed showrooms that will be a perfect space for all modern brands. It is currently under construction, and the possession will initiate in December 2024. The main benefit of this commercial project is the low-cost maintenance of the building; that is, the investors don’t have to pay much for the maintenance of their space.",
     },
     {
+      id: "nk-savitry-towers",
       title: "All About NK Savitry Towers Zirakpur",
       imgUrl: "zirakpur/NK-Savitry-Towers/feature-nk.png",
       description:
@@ -110,12 +115,13 @@ const placeWise = {
       description:
         "In the hustle of life, we often carve for the beautiful mountains filled with infinite flora and fauna. Imagine if you could get it all while still living in the city. Seems unreal, right? Well, with Suntec City, this is possible.",
     },
-    // {
-    //   title: "Palm Residency (Price & Project Details)- New Chandigarh",
-    //   imgUrl: "new_chandigarh/Palm-Residency/palm-residency-feature.png",
-    //   description:
-    //     "Imagine a life where you can come home to your little piece of paradise, surrounded by the green landscape of Chandigarh. This is what the Palm Residency promises its residents – a luxurious haven away from the hustle and bustle of city life. Located in Mullanpur, New Chandigarh, the Palm Residency is a gated community of independent premium floors designed for those who appreciate the superior things in life.",
-    // },
+    {
+      id: "palm-residency",
+      title: "Palm Residency (Price & Project Details)- New Chandigarh",
+      imgUrl: "new_chandigarh/Palm-Residency/palm-residency-feature.png",
+      description:
+        "Imagine a life where you can come home to your little piece of paradise, surrounded by the green landscape of Chandigarh. This is what the Palm Residency promises its residents – a luxurious haven away from the hustle and bustle of city life. Located in Mullanpur, New Chandigarh, the Palm Residency is a gated community of independent premium floors designed for those who appreciate the superior things in life.",
+    },
   ],
   kharar: [
     {

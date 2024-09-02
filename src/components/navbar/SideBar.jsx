@@ -7,6 +7,13 @@ import InputBox from "../inputBox/InputBox";
 import Button from "../buttons/Button";
 
 function SideBar({ isMounted, unMount }) {
+  const scroll = () => {
+    const element = document.getElementById("footer");
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   const [isTransitioning, setIsTransitioning] = useState(false);
   useEffect(() => {
     let timeoutId;
@@ -97,9 +104,12 @@ function SideBar({ isMounted, unMount }) {
           classname={"text-center"}
         />
         <NavButton
-          onClick={unMount}
+          onClick={() => {
+            unMount();
+            scroll();
+          }}
           title={"Contact"}
-          navigateTo={"/contact"}
+          navigateTo={"/"}
           classname={"text-center"}
         />
         <InputBox id={"search"} placeholder={"Search For"} type={"text"} />

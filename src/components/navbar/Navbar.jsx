@@ -9,6 +9,13 @@ import Button from "../buttons/Button";
 function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
 
+  const scroll = () => {
+    const element = document.getElementById("footer");
+    if (element) {
+      element.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+
   useEffect(() => {
     const div = document.createElement("div");
     div.setAttribute("id", "overlay");
@@ -21,7 +28,11 @@ function Navbar() {
         <div class="nav-container items-stretch px-4 flex justify-between w-[90%] lg:w-[95%]">
           <Link to="/" className=" flex flex-row items-center">
             <div className="h-full flex items-center">
-              <img className="h-[70%]" src="/assets/sampatteeLogo.jpg" alt="Sampattee" />
+              <img
+                className="h-[70%]"
+                src="/assets/sampatteeLogo.jpg"
+                alt="Sampattee"
+              />
             </div>
           </Link>
           <div class="lower-navbar bg-black font-poppins font-medium my-auto text-white flex flex-row justify-start py-2">
@@ -57,7 +68,8 @@ function Navbar() {
             />
             <NavButton
               title={"Contact"}
-              navigateTo={"/contact"}
+              onClick={scroll}
+              navigateTo={"/"}
               classname={"mx-1 text-lg"}
             />
             <div className="flex px-1 gap-4 flex-row justify-center">

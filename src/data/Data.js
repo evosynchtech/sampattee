@@ -1254,8 +1254,585 @@ const data = {
         },
       ],
     },
+    {
+      id: "palm-residency",
+      title: "Palm Residency (Price & Project Details)- New Chandigarh",
+      Imgs: ["Palm-Residency/palm-residency-feature.png"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Imagine living a life where you can return home to your own small paradise nestled amid Chandigarh's verdant surroundings. Residents of the Palm Residency are promised an opulent sanctuary away from the bustle of daily life. The Palm Residency is a gated community of independent premium floors situated in Mullanpur, New Chandigarh, catering to individuals who value finer things in life.",
+            "Each level features a variety of 2 and 3 BHK apartments, with sizes varying from 140 to 250 square yards, all thoughtfully designed to provide tenants with a fashionable and comfortable living environment. Furthermore, the Palm Residency is only one kilometer from Chandigarh and situated on a 200-foot-wide Madhya Marg Extension.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "Manohar Infrastructure & Constructions",
+            rera_number: "PBRERA-SAS80-PR0092",
+            project_site_location:
+              "Villages Mullanpur, Dhanauran and Masatgarh (LPA Mullanpur), SAS Nagar, Mohali",
+            apartment_type: "2 and 3 BHK apartments",
+            flat_prices_at_palm_residency: "",
+            "2_BHK_apartments_price": "₹48 lac onwards",
+            "3_BHK_apartments_price": "₹85 lac onwards",
+          },
+        },
+        {
+          type: "para",
+          heading: "Pros at Palm Residency, New Chandigarh",
+          para: [
+            "New Chandigarh's Mullanpur is quickly developing into a center of activity, with Palm Residency at its core. This lodging is the ideal spot to call home because of its excellent location, planned metro, and 4-lane road access. It is close to Education City, home of Chitkara University and Narsi Monji Institute of Technology, as well as the soon-to-open Tata Cancer Hospital. The township's other key USP is the planned 70-acre artificial lake at Palm Spaces near Mullanpur. There is a picturesque lake nearby that provides a calm setting for leisure and relaxation. Finally, but just as importantly, you may take in the stunning Shivalik mountain range scenery from the luxury of your Palm Residency home.",
+            "However, its natural and green surroundings are what make it unique. The home offers a sense of tranquility that is difficult to find in today's busy world because it is surrounded by trees and has plenty of green space. In addition, a hotel, retail, and commercial spaces are proposed for this project. In addition, it has a number of contemporary facilities such a jogging track, clubhouse, gym, swimming pool, and kid's play area.",
+            "Last but not least, the Palm Residency in New Chandigarh has some amazing features, particularly with regard to the flooring. The opulent living, dining, and family rooms feature OBD ceilings and walls covered with plastic emulsion tiles. Overall, the laminate oak flooring in all of their master suites ensures a classy and cozy atmosphere.",
+            "Meanwhile, the toilets and kitchen have anti-skid tiles/ceramic tiles on the floor.",
+            "Other perks at the Palm Residency include:",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "Swimming pool",
+            "Bar/Chill-out Lounge",
+            "Restaurant",
+            "Billiards",
+            "Cricket Pitch",
+            "Banquet hall",
+            "Lawn tennis Court",
+            "Badminton Court",
+            "Clubhouse",
+            "Gymnasium",
+            "24/7 Water Supply",
+            "Spacious car parking",
+          ],
+        },
+        {
+          type: "paras",
+          heading:
+            "About the Builder – Manohar Infrastructure and Constructions",
+          para: [
+            "Since 1956, Manohar Singh & Connstuructions has been a well-known brand in the real estate sector. With a land bank spanning more than 300 acres, the business is already well-known in the Chandigarh Tricity area. In New Chandigarh, Manohar Infrastructure & Constructions provides a large selection of aesthetically pleasing and opulently furnished flats, homes, villas, and commercial spaces. ",
+            "Every project is designed and conceptualized with an eye toward a global lifestyle. The Palm will have commercial spaces like The Palm Downtown and Palm Central Bay in addition to projects like Palm Spring, Palm Garden, Palm Eco-city, and Palm Residency. In addition, The Palm provides a range of plot sizes, from 140 square yards to 500 square yards.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Buying an apartment at Palm Residency in New Chandigarh",
+          para: [
+            "The ideal location to restore your senses and get away from the daily grind is Palm Residency Mullanpur. The community features paved roads, large open areas, and contemporary infrastructure. It is unquestionably well designed and prepared for the future.",
+            "Everything you require is close by, including the property's water supply and drainage infrastructure, as well as shopping and entertainment venues. Everything from power backups to high-speed elevators has been developed with your comfort in mind.",
+            "Owning your own home is now possible with Manohar Infrastructures' flexible financing choices and appealing payment schedule. Visit the Palm Residency Mullanpur today or visit their website to find out more about their independent Floors!",
+          ],
+        },
+        {
+          type: "paras",
+          heading:
+            "Thinking of purchasing a property in SunTec City, New Chandigarh?",
+          para: [
+            "Situated near multiple forests and Chandigarh's botanical park, this house is definitely a city getaway without leaving it. Additionally, the estate has all of the top-notch amenities that are ideal for you and your family.",
+            "Additionally, some of the projects in this estate are completed and ready for ownership, while others are still in the process of being built.",
+            "You can reach SunTec City by calling 072990 00097 if you're interested in learning more.",
+            "Site Address: New Palheri, New Chandigarh, Chandigarh 160062; Suntec City, Madhya Marg Extn, Mullanpur Barrier",
+          ],
+        },
+      ],
+    },
   ],
-  zirakpur: [],
+  zirakpur: [
+    {
+      id: "harmony-imperial-apartments",
+      title: "Harmony Imperial Apartments: Luxury Lifestyle",
+      Imgs: [
+        "Harmony-Imperial-Apartments/harmony-imperial-apartments1.png",
+        "Harmony-Imperial-Apartments/harmony-imperial-apartments2.jpg",
+        "Harmony-Imperial-Apartments/harmony-imperial-apartments3.png",
+        "Harmony-Imperial-Apartments/harmony-imperial-apartments4.png",
+        "Harmony-Imperial-Apartments/harmony-imperial-apartments5.png",
+      ],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Zirakpur's Imperial Apartments, built by Harmony Colonizers Pvt Ltd, are renowned for their excellent construction and reasonable prices. This real estate firm holds an RERA registration and certification. Premium projects, townships, and apartment buildings are all part of their portfolio.",
+            "This property's well-planned living areas and advantageous location make it a great investment option. Due of its rapidly increasing popularity, it provides comfortable residential apartments as well as the possibility of considerable investment returns.",
+            "The project's and the company's success is evidence of their dependability. Harmony Colonizers' high-end residential project promises a lifestyle that skillfully combines elegance and convenience, providing inhabitants with a peaceful haven right in the middle of the city.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "Harmony Colonizers Pvt Ltd",
+            site_location: "Zirakpur",
+            rera_no: "PBRERA-SAS79-PR0605",
+            type_of_project: "S+4 Residential Apartments",
+            prices: "Ranges from 64.90 Lac to 67.90 Lac",
+          },
+        },
+        {
+          type: "para",
+          heading: "Overview of Harmony Imperial Apartments",
+          para: [
+            "Two different kinds of structures make up the Imperial Apartments. There are 240 S + 4 low-rise residential levels, which can reach up to 14 stories, distributed over the site's east and west sides.",
+            "The buildings are arranged in accordance with the ideas of Vaastu, an ancient Indian architectural philosophy that is thought to promote peace and wealth. The South's skyscrapers are designed in accordance with Vaastu principles to foster a wealthier quality of life.",
+            "To further strengthen the devotion to Vaastu principles, the site's entrance is situated in the north. The buildings are arranged with care to provide people with a harmonious and well-balanced living environment.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "Lifestyle Features",
+          para: [
+            "Imperial Apartments offers a range of exceptional features that enhance the overall living experience for its residents:",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "Unique Landscape Design: The apartment complex boasts a distinctive and well-thought-out landscape design, adding beauty and uniqueness to the surroundings. This design creates a visually appealing environment for residents to enjoy.",
+            "Kids Play Area: A well-planned and dedicated play area for children to cater to the recreational needs of kids, offering various fun and engaging activities that promote their physical and social development.",
+            "Cultural Court: The Cultural Court within the premises serves as a platform for hosting cultural events and celebrations. It allows residents to unite, showcase their talents, and celebrate their diverse traditions and cultural heritage.",
+            "Speaking Tree: A unique feature of the complex is the presence of a speaking tree. This tree holds cultural significance and is believed to possess a calming and rejuvenating aura.",
+            "Jogging Paths: For fitness enthusiasts, Imperial Apartments provides dedicated jogging paths. These well-designed tracks offer a safe and convenient space for residents to engage in jogging or brisk walking, promoting a healthy and active lifestyle.",
+            "Meditation Garden: The meditation garden is a serene and secluded area where residents can find inner peace and practice mindfulness. Surrounded by nature and equipped with comfortable seating arrangements, this garden offers a tranquil sanctuary for meditation and relaxation.",
+            "Scented Garden: The scented garden delights the senses with its fragrant flowers and aromatic plants. Residents can take leisurely walks through this garden, enjoying the pleasant scents and immersing themselves in a soothing ambiance.",
+            "Open Gym: Fitness enthusiasts can avail themselves of the open gym facilities. The open gym allows residents to maintain their fitness routines conveniently within the premises.",
+            "Basketball Court: The dedicated basketball court on the premises lets sports enthusiasts indulge in friendly matches and enjoy their favorite sport, fostering an active and vibrant community spirit.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Location and Accessibility",
+          para: [
+            "Imperial Apartments enjoys a convenient distance and travel time from key areas, making it easily accessible for residents. Also, the project is also well-connected, with easy accessibility to Chandigarh. Here are the approximate distances and travel times to various destinations:",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Transportation",
+          items: [
+            "Railway Station Chandigarh: Approximately 11.3 kilometers away, taking a 15-minute drive.",
+            "International Airport, Chandigarh: Located approximately 13.7 kilometers away, with a travel time of around 25 minutes by road.",
+            "Bus Stand, Zirakpur: Approximately 6.4 kilometers away, taking a 10-minute drive.",
+            "Bus Stand, Sector-5, Panchkula: Located around 7.3 kilometers away, taking approximately 15 minutes by car.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Schools/ Universities Near Harmony Imperial Apartments",
+          items: [
+            "Delhi World Public School, Kishanpura, Punjab: Approximately 1.5 kilometers away, taking about a 5-minute drive.",
+            "St. Xavier’s School, Sector-20, Panchkula: Around 3.1 kilometers away, taking approximately 10 minutes by car.",
+            "Gurukul School, Sector-20, Panchkula: Located approximately 2.5 kilometers away, with a travel time of around 10 minutes by road.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Hospitals Nearby",
+          items: [
+            "PGI, Chandigarh: Located approximately 17.7 kilometers away, with a travel time of around 35 minutes by road.",
+            "Alchemist Hospital, Sector-21, Panchkula: Around 4 kilometers away, taking approximately 10 minutes by car.",
+            "Civil Hospital, Sector-6 Panchkula: Approximately 9.1 kilometers away, taking about a 20-minute drive.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Shopping Malls / Entertainment Sources",
+          items: [
+            "Big Bazaar, Paras Downtown Square, Zirakpur: Approximately 4.8 kilometers away, taking about a 10-minute drive.",
+            "IT Park, IT Sector Chandigarh: Located approximately 14 kilometers away, with a travel time of around 25 minutes by road.",
+            "Sector-17 Market, Chandigarh: Approximately 15.8 kilometers away, which is about a 30-minute drive.",
+            "Elante Mall, Chandigarh: Around 10.3 kilometers away, taking approximately 20 minutes by car.",
+            "Cosmo Mall, Ambala-Chandigarh Express Highway: Around 8.1 kilometers away, it can be reached in approximately 15 minutes by car.",
+            "Funcity Water Park, Ramgarh, Panchkula: Approximately 11.5 kilometers away, taking about a 25-minute drive.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Conclusion",
+          para: [
+            "Zirakpur's Imperial Apartments by Harmony Colonizers Pvt Ltd provide luxurious yet reasonably priced living accommodations. It offers an opulent and pleasant living with its well-designed apartments and a variety of features, including a kid's play area, cultural court, and distinctive landscape design.",
+            "Due to the project's advantageous position, it is simple to get to public transportation, well-known hill stations, schools, hospitals, and commercial centers. This Zirakpur real estate property is a dependable option for investors looking for a prosperous and peaceful living environment.",
+          ],
+        },
+      ],
+    },
+    {
+      id: "ksb-dream-homes",
+      title: "KSB Dream Homes (Price & Project Details) – Zirakpur",
+      Imgs: [
+        "KSB-Dream-Homes/KSB-Dream-Homes-Feature-Image-2.jpg",
+        "KSB-Dream-Homes/KSB-Dream-Homes-Location-map.jpg",
+      ],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "In Zirakpur, Mohali, KSB Dream Homes, a much-anticipated housing society, has at last opened for occupancy. This lavish and spacious building is a great option for families searching for a stylish and comfortable place to live because it offers 3 BHK flats at a very affordable price. Because of the project's ideal position, all of the social infrastructures within and surrounding the city are readily accessible.",
+            "In addition, a lot of activity is going on in this society since families are starting to settle down and make it their own. With all the facilities and amenities offered, many people's dreams have come true at KSB Dream Homes Zirakpur.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "K Soni Builders",
+            project_site_location:
+              "KSB Dream Homes, Gazipur Road, Zirakpur, Mohali",
+            apartment_type: "3 BHK apartments",
+            flat_prices: "",
+            price_range: "3 BHK apartments start from ₹30 lac onwards",
+          },
+        },
+        {
+          type: "para",
+          heading: "Pros at KSB Dream Homes",
+          para: [
+            "There's no need to sacrifice location or quality in your quest for your ideal house. In Zirakpur, you may get the best of both worlds with KSB Dream Homes. These opulent three-bedroom apartments are located in one of the most sought-after neighborhoods in the city and come equipped with every luxury amenity you could ask for.",
+            "It's easily accessible, being only 3 km from the Panchkula bus station and 6.5 km from the Chandigarh railway station. And you've taken care of the medical and educational aspects with Punjab University, PGI Hospital, and Gurukul School all close by! For those who enjoy being outside, there are several of options close by, such as Sukhna Lake, Rock Garden, and the Gymkhana Club & Golf Club.",
+            "This property is unique not only because of its prime location but also because of its commitment to the well-being of its occupants. There are excellent facilities and services available, including a gated community, paved complex, fire fighting systems, car parking, children's play area, and round-the-clock power backup. Thus, if you're looking for a new home, make sure to check out KSB Dream Homes.",
+            "Speaking of the building's structure, the main bedroom has lovely laminate wood floors, and the four-story building is constructed with RCC frames that are resistant to earthquakes. The dining room, drawing room, and all the other bedrooms have wooden cabinets and vitrified tiles with a marble look. The stunning modular kitchen also includes ceramic tiling, a stainless steel sink, a granite surface, and steel accessories with wooden cabinetry. The anti-slip flooring in the restrooms is made of tiles up to seven feet in length, and the washbasins have granite or marble slabs. KSB Dream Homes is the ideal option for you if you're searching for a house with all the features and conveniences you require.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "About the Builder – K Soni Builders",
+          para: [
+            "K Soni Builders is a real estate development firm dedicated to creating projects that offer outstanding returns on investment. To build a loyal client base, the business is committed to upholding corporate ethics and being transparent in all of its interactions. Numerous residential projects created by this well-known company have proven to be wise investments both now and in the future.",
+            "In the real estate development sector, KS Builders is a reputable brand with a solid track record of superior building. The best option if you're searching for a reliable real estate development firm is K Soni Builders.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "The Takeaway",
+          para: [
+            "The ideal house for people who value comfort and space is KSB Dream Homes Zirakpur. These three-bedroom homes are well-designed, roomy, and have lots of natural light coming in through the wide windows and abundant storage. Because of its ideal location, you may enjoy the benefits of being close to all of Tricity's key sites while still being far from the noisy and dirty city. Because of this, KSB Dream Homes provide the ideal fusion of elegance, practicality, and safety.",
+            "Please feel free to visit the Zirakpur property or get in touch with the builder if you have any more queries about this project.",
+            "This is a wise decision if you want to purchase residential real estate in Tricity.",
+          ],
+        },
+      ],
+    },
+    {
+      id: "ghb-splande-zirakpur",
+      title: "GHB Splande -Details, Price, and Everything You Need to Know",
+      Imgs: [
+        "GHB-Splande/feature-splande.jpg",
+        "GHB-Splande/3-bhk-floor-splande.jpg",
+        "GHB-Splande/4-bhk-floor-3-bath-splande.jpg",
+        "GHB-Splande/4-bhk-floor-4-bath-splande.jpg",
+        "GHB-Splande/Location-Splande.png",
+        "GHB-Splande/site-plan-splande.jpg",
+      ],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Looking for a better housing community to invest your hard-earned money in? Go no further; check out GHB Splande. It is an under-construction housing society in Zirakpur. There are independent floors and apartments for sale. This community will have all the fundamental amenities and facilities that will perfectly suit your needs.",
+            "If we talk about property options and price, then again, GHB Splande Zirakpur has a wide range. And it makes it one of the most suitable places to own. The apartment price starts from Rs. 59.01 L. Let’s see what else this housing society has to offer.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder_name: "Green Home Builders",
+            rera_number: "PBRERA-SAS79-PR0579",
+            total_project_area: "5.97 Acres",
+            project_status: "Under Construction",
+            possession_initiation: "March 2024",
+            location:
+              "Village Dayalpura, MC Zirakpur Dera Bassi, Sahibzada Ajit Singh Nagar (Mohali), Punjab 140603",
+            apartment_types: "3 BHK, 3 BHK independent floor, 4 BHK",
+          },
+        },
+        {
+          type: "para",
+          heading: "Technical Specifications and Floor Plan",
+          para: [
+            "GHB Splande has five towers and four floors with 360 units to offer. There is vitrified tile flooring in the master bedrooms and living/dining room. Washrooms have anti-skid ceramic tiles. The walls have a long-lasting emulsion. The whole apartment has eight-foot-high flush doors that give both a sense of security and status. And when it comes to windows, they are also made of branded UPVC material.",
+            "The kitchen has a granite countertop with a double bowl SS sink, branded faucet, provision for RO and premium modular switches. There are premium modular switches in washrooms with internal branded CPVC fittings and 8 feet high tiles on walls.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "Why GHB Splande?",
+          para: [
+            "The primary factors that lead one to select GHB Splande Zirakpur are its unparalleled features and cutting-edge amenities. Aside from that, the residential society's surroundings are also quite important. It's the perfect place to start living a cozy, comforting, and luxurious existence. ",
+            "GHB Splande has very good access to all essential services. The airport, bus stop, colleges, and schools are all nearby. Other amenities including McDonald's, KFC, and D-mart are a short drive away.",
+            "Look at all the amenities if it's still not enough. The community is gated, and security is on duty around-the-clock. If you are an enthusiast of the natural world, the terrace garden will undoubtedly become your retreat.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "24/7 power backup.",
+            "Earthquake resistant.",
+            "Library",
+            "Shopping center.",
+            "Banquet Hall",
+            "Club House.",
+            "Fully-equipped Gymnasium.",
+            "24/7 Water Supply.",
+            "Spacious Car Parking.",
+            "Internal Street Lights.",
+            "Separate Children’s play area.",
+            "Swimming Pool.",
+            "Lounge",
+            "Grocery Shop.",
+            "Wi-fi Connectivity",
+            "Theatre.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "Know Your Developer",
+          para: [
+            "Green Home Builders is responsible for the GHB Splande residential project. It is the real estate industry's fastest-growing company. The company's primary goal is complete client pleasure. Their impressive residential constructions in Zirakpur are setting new standards.",
+            "And the company offers total transparency, which is like frosting on the cake. Green Home Builders guarantees that their projects offer the highest returns on investment and the most exceptional facilities.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "The Bottom Line",
+          para: [
+            "Buying a perfect house is every home buyer’s dream, and GHB Splande Zirakpur is making this dream come true. If you have come this far, then this project must be your type. So, what are you waiting for? Contact the builder right now or visit the official website and resolve any further queries about it. All the details are mentioned below.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "",
+          values: {
+            Address: "JQJV+WPM, Sahibzada Ajit Singh Nagar, Punjab 140603",
+            Contact: "+91 91692 93692",
+            "E-mail": "info@splande.com",
+          },
+        },
+      ],
+    },
+    {
+      id: "aster-plaza",
+      title: "Aster Plaza: The Future of Commercial Places",
+      Imgs: [
+        "Aster-Plaza/feature-aster.jpg",
+        "Aster-Plaza/Basement-Aster.jpg",
+        "Aster-Plaza/First-floor-aster.jpg",
+        "Aster-Plaza/fourth-floor-aster.jpg",
+        "Aster-Plaza/Lower-ground-aster.jpg",
+        "Aster-Plaza/Second-floor-aster.jpg",
+        "Aster-Plaza/third-floor-aster.jpg",
+        "Aster-Plaza/Upper-ground-aster.jpg",
+      ],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Aster Plaza is a fusion of showrooms with practical and artistic designs that will be ideal for all contemporary brands. The building is presently underway, with possession scheduled to begin in December 2024. The building's inexpensive maintenance, or the fact that investors don't have to spend much for their space's upkeep, is the primary advantage of this commercial enterprise.",
+            "This project provides roomy parking for hassle-free car transportation. Aster Plaza is the best location if you're looking for a place to grow your company. What more is this project going to offer you, let's see.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details- Aster Plaza",
+          values: {
+            builder_name: "New Generation Real Estates LTD.",
+            rera_number: "PBRERA-SAS79-PC0142",
+            initial_price: "Rs. 24.75 L",
+            project_status: "Under Construction",
+            possession_initiation: "December 2024",
+          },
+        },
+        {
+          type: "para",
+          heading: "Why Aster Plaza?",
+          para: [
+            "The low maintenance cost of the building is one of the main reasons to choose this property. The locality and the amenities work as chef d’ oeuvre. The building has high-speed elevators along with an ATM. When it comes to security, then the CCTV cameras won’t let you down. Aster Plaza is earthquake-proof, so you don’t have to worry about this natural disaster as well. The other essential amenities and features are listed below.",
+            "The kitchen has a granite countertop with a double bowl SS sink, branded faucet, provision for RO and premium modular switches. There are premium modular switches in washrooms with internal branded CPVC fittings and 8 feet high tiles on walls.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "24/7 Water Supply.",
+            "Spacious Car Parking.",
+            "Gated Community.",
+            "Fire Fighting System.",
+            "Open Space.",
+            "Food Court.",
+            "Grade A Building.",
+            "24/7 Power Backup.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "",
+          para: [
+            "Another benefit is the proximity of Aster Plaza. It is situated in Zirakpur, one of the neighborhoods that is expanding quickly. The real-world market in Zirakpur is being driven by the rapidly expanding other industries, and it also benefits from great access to Chandigarh.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "Know Your Developer",
+          para: [
+            "Under New Generation Real Estates LTD is the commercial project Aster Plaza. It is among the most reputable real estate development firms in the area. On December 23, 1999, this corporation entered the real estate market. It has been leading the industry ever since.",
+            "It is well known that New Generation Real Estates LTD. produces cutting edge projects complete with all the necessities. It is a reputable brand, and the company's primary goal is complete client happiness.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "The Bottom Line",
+          para: [
+            "It can be challenging to find the ideal commercial space in Zirakpur, but Aster Plaza is helping to ease the process. We sincerely hope that this post has been helpful to you. If you still have questions, you may visit the official website or get in touch with the builder. The details for getting in touch are shown below.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "",
+          values: {
+            Address: "PR 7, Aerocity Rd, Zirakpur, Punjab 140603",
+            Contact: "+91 90239 90990",
+            "E-mail": "support@ngestate.com",
+          },
+        },
+      ],
+    },
+    {
+      id: "nk-savitry-towers",
+      title: "All About NK Savitry Towers Zirakpur",
+      Imgs: [
+        "NK-Savitry-Towers/feature-nk.png",
+        "NK-Savitry-Towers/LOcation-NK.jpg",
+        "NK-Savitry-Towers/master-plan-NK.jpg",
+      ],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "In Zirakpur, there is a neighborhood of pre-assembled homes called NK Savitry Towers. It offers a variety of apartments for different budgets. The apartments are the ideal fusion of style and comfort, thoughtfully created to complement your lifestyle and convenience. That's what we refer to as the ideal house. Savitry Towers provides all you need for an opulent way of living. And every convenience is on par with a chef d'oeuvre. Let's examine this Zirakpur home project's finer points in detail.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details- Aster Plaza",
+          values: {
+            builder_name: "NK Sharma Group",
+            project_status: "Ready to Move",
+            total_project_area: "5 Acres",
+            location: "Zirakpur",
+            apartment_types: "2 BHK, 3 BHK, and 5 BHK",
+            price_range: "Rs. 31 L – Rs. 75 L",
+            size_range: "1,150 sq. ft – 4,000 sq. ft.",
+          },
+        },
+        {
+          type: "para",
+          heading: "Technical Specifications and Master Plan?",
+          para: [
+            "Several little special features highlight NK Savitry Towers. Some of them are mentioned below.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Walls",
+          items: [
+            "Oil-bound distemper in living/dining and lobby.",
+            "Ceramic tiles in kitchen and washrooms.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Flooring",
+          items: [
+            "Vitrified tiles in bedrooms, dining/living, and lobby.",
+            "Anti-skid tiles in the balcony, kitchen and washrooms.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Ceiling",
+          items: ["Oil-bound dismemberment on the ceiling."],
+        },
+        {
+          type: "list",
+          heading: "Counters",
+          items: [
+            "Granite counters in the kitchen.",
+            "White Chinaware and Stainless Steel Sink.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "Why NK Savitry Towers?",
+          para: [
+            "There are multiple justifications for choosing Savitry Towers. It offers 203 apartments spread across seven towers, each with eleven stories. Five acres make up the whole project area. The apartments at NK Savitry Towers are reasonably large. It's also regarded as one of the area's largest villages. NK Savitry Towers is an ideal investment because it offers all the essential amenities at a reasonable price point. The following is a list of all the additional Savitry Towers facilities.",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "Rain Water Harvesting",
+            "Property Staff",
+            "Swimming Pool",
+            "Shopping Centre",
+            "Library",
+            "Power Backup Lifts",
+            "Vastu Compliant",
+            "Jogging Track",
+            "Club House",
+            "24/7 Water Supply",
+            "Fully-equipped Gymnasium",
+            "Landscape Garden",
+            "Separate Children’s Play Area",
+            "Spacious Car Parking",
+            "24/7 Power Backup",
+          ],
+        },
+        {
+          type: "para",
+          heading: "",
+          para: [
+            "Not only that, but the housing community at NK Savitry Towers is earthquake resistant. Sparks are added to all its other features by its location. Savitry Towers is ideally connected to Chandigarh and is situated at Zirakpur. Zirakpur is among the areas that is expanding quickly as well. Numerous residential and commercial projects are now in progress, and many more have already been finished.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "Know Your Builder",
+          para: [
+            "NK Sharma Group has a project called Savitry Towers. In the real estate industry, it's a reputable name. This organization has become one of the most reputable real estate firms in Zirakpur and Chandigarh by adhering to its basic beliefs and ideals.",
+            "Since its founding, the NK Sharma Group has made it their mission to satisfy their customers. Every one of their residential projects is thoughtfully planned with the needs of future generations in mind.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "The Bottom Line",
+          para: [
+            "NK Savitry Tower investments are a true financial value. Among other residential communities with all the bells and whistles, Savitry Towers stands tall. To find out more about this project, go to NK Sharma Group's official website or get in touch with the developer directly. The details are provided below.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "",
+          values: {
+            Office_Address:
+              "Charanji Enclave (Lohgarh), Ambala-Chandigarh Highway, Zirakpur 140603",
+            Telefax: "01762 286474",
+          },
+        },
+      ],
+    },
+  ],
 };
 
 export default data;
