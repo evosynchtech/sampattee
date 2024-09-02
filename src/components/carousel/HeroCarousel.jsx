@@ -24,25 +24,10 @@ function HeroCarousel() {
         className="hero-carousel-swiper"
       >
         <SwiperSlide>
-          <CarouselSlide
-            ImgUrl={
-              "/assets/properties/property_1.jpg"
-            }
-          />
+          <CarouselSlide ImgUrl={"/assets/properties/Home.svg"} />
         </SwiperSlide>
         <SwiperSlide>
-          <CarouselSlide
-            ImgUrl={
-              "/assets/properties/property_2.jpg"
-            }
-          />
-        </SwiperSlide>
-        <SwiperSlide>
-          <CarouselSlide
-            ImgUrl={
-              "/assets/properties/property_3.jpg"
-            }
-          />
+          <CarouselSlide ImgUrl={"/assets/properties/Title.svg"} />
         </SwiperSlide>
 
         <div class="swiper-pagination"></div>
