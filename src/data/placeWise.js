@@ -17,21 +17,21 @@ const placeWise = {
         "Motia Chandigarh Hills Dera Bassi is undoubtedly one of the most sought-after residential societies in the area. It is situated at a distance of merely 2 minutes from the Chandigarh-Ambala highway. Spanning over 13 acres of land, the society offers residents a peaceful and serene environment. The lavish property is ideal for keeping you away from the hustle and bustle of city life. With all plots being Vastu compliant and Either North-facing or East-facing, the society is an ideal choice for those looking to build their dream home.",
     },
     {
-      id:"sbp-housing-park",
+      id: "sbp-housing-park",
       title: "SBP Housing Park (1/2/3 BHK Apartments & Prices)- Dera Bassi",
       imgUrl: "dera_bassi/SBP-Housing-Park/SBP-Housing-Park-780x470.jpg",
       description:
-      "For the luxurious and cosmopolitan lifestyle that you imagine for yourself and your family, SBP brings Housing Park to Derabassi- the industrial belt of Tricity. This 20-acre project offers not only futuristic designs but also ensures that one enjoys living close to nature every second of their life.",
+        "For the luxurious and cosmopolitan lifestyle that you imagine for yourself and your family, SBP brings Housing Park to Derabassi- the industrial belt of Tricity. This 20-acre project offers not only futuristic designs but also ensures that one enjoys living close to nature every second of their life.",
     },
     {
-      id:"sbp-housing-park",
+      id: "sbp-housing-park",
       title: "SBP Housing Park (1/2/3 BHK Apartments & Prices)- Dera Bassi",
       imgUrl: "dera_bassi/SBP-Housing-Park/SBP-Housing-Park-780x470.jpg",
       description:
-      "For the luxurious and cosmopolitan lifestyle that you imagine for yourself and your family, SBP brings Housing Park to Derabassi- the industrial belt of Tricity. This 20-acre project offers not only futuristic designs but also ensures that one enjoys living close to nature every second of their life.",
+        "For the luxurious and cosmopolitan lifestyle that you imagine for yourself and your family, SBP brings Housing Park to Derabassi- the industrial belt of Tricity. This 20-acre project offers not only futuristic designs but also ensures that one enjoys living close to nature every second of their life.",
     },
     {
-      id:"kings_valley_by_ubber",
+      id: "kings_valley_by_ubber",
       title: "Kings Valley by Ubber (Project Details & Prices)- Derabassi",
       imgUrl:
         "dera_bassi/Kings-Valley-by-Ubber/Kings-Valley-feature-image-2.jpg",
@@ -39,7 +39,7 @@ const placeWise = {
         "For those who love to live the grand life like kings and queens, Ubber Buildcon presents Kings Valley in Derabassi. This property presents residential plots that let you build the home you always wanted.",
     },
     {
-      id:"ats-golf-meadows",
+      id: "ats-golf-meadows",
       title: "ATS Golf Meadows, Dera Bassi",
       imgUrl: "dera_bassi/ATS-Golf-Meadows/ats-golf-meadows-5-banner.jpg",
       description:
@@ -81,12 +81,14 @@ const placeWise = {
   ],
   new_chandigarh: [
     {
+      id: "omaxe-the-resort",
       title: "Omaxe The Resort (Price & Project Details)- New Chandigarh",
       imgUrl: "new_chandigarh/Omaxe-The-Resort/Omaxe-The-Resort-Feature.jpg",
       description:
         "Are you looking for a real estate property in Chandigarh? If so, you may want to consider the Omaxe The Resort. Spread over nine acres of lush land; this integrated township has all modern luxuries, including a clubhouse, gymnasium, swimming pool, tennis court, etc. Whether you’re looking for a luxurious penthouse or an affordable starter home, it has it all.",
     },
     {
+      id: "the-ananta-aspire",
       title: "The Ananta Aspire (Price & Project Details) – New Chandigarh",
       imgUrl:
         "new_chandigarh/The-Ananta-Aspire/feature-image-ananta-aspire.jpeg",
@@ -94,24 +96,26 @@ const placeWise = {
         "The Ananta Aspire is a one-of-a-kind residential complex that blends luxury, comfort, style and technology to create happy homes. Spread over 34,050 square yards, the residence offers an exclusive inventory of 4+1, 3+1 and 3 BHK smart homes for sale in Zirakpur, New Chandigarh.",
     },
     {
-      title: "Omaxe The Lake (Project Details & Price)",
+      id: "omaxe-celestia-royal",
+      title: "Omaxe Celestia Royal (Price & Project Details) – New Chandigarh",
       imgUrl:
         "new_chandigarh/Omaxe-The-Resort/Omaxe-Celestia-Royal-Feature2.jpg",
       description:
-        "The combination of luxury and convenience in the right amounts is the key to a fruitful and comfortable life. With a strong belief in providing both, Omaxe presents The Lake, an ultra-luxurious residential project lying in the foothills of Shivalik Hills and right in New Chandigarh.",
+        "Looking for a lavish place to call your home? Then look no further than the luxurious Omaxe Celestia Royal 3 and 4 BHK flats in New Chandigarh. Located on an expansive green area with amazing views of Mullanpur – these homes offer unparalleled living experiences that will make life worthwhile!",
     },
     {
+      id: "suntec-city",
       title: "Suntec City (Project Details & Prices)",
       imgUrl: "new_chandigarh/Suntec-City/suntec-city-night-view.png",
       description:
         "In the hustle of life, we often carve for the beautiful mountains filled with infinite flora and fauna. Imagine if you could get it all while still living in the city. Seems unreal, right? Well, with Suntec City, this is possible.",
     },
-    {
-      title: "Palm Residency (Price & Project Details)- New Chandigarh",
-      imgUrl: "new_chandigarh/Palm-Residency/palm-residency-feature.png",
-      description:
-        "Imagine a life where you can come home to your little piece of paradise, surrounded by the green landscape of Chandigarh. This is what the Palm Residency promises its residents – a luxurious haven away from the hustle and bustle of city life. Located in Mullanpur, New Chandigarh, the Palm Residency is a gated community of independent premium floors designed for those who appreciate the superior things in life.",
-    },
+    // {
+    //   title: "Palm Residency (Price & Project Details)- New Chandigarh",
+    //   imgUrl: "new_chandigarh/Palm-Residency/palm-residency-feature.png",
+    //   description:
+    //     "Imagine a life where you can come home to your little piece of paradise, surrounded by the green landscape of Chandigarh. This is what the Palm Residency promises its residents – a luxurious haven away from the hustle and bustle of city life. Located in Mullanpur, New Chandigarh, the Palm Residency is a gated community of independent premium floors designed for those who appreciate the superior things in life.",
+    // },
   ],
   kharar: [
     {
@@ -119,7 +123,7 @@ const placeWise = {
       title: "PNB Picasso Floors (Price & Project Details) – Kharar",
       imgUrl: "kharar/PNB-Picasso/PNB-Picasso-Feature-image-780x439.jpg",
       description:
-      "Do you ever wish to live a life of luxury? Well, your search ends here! Introducing PNB Picasso Floors – a unique and innovative offering that provides luxurious and affordable flats in Mohali. This property offers panoramic views of the bustling city skyline from the comfort of your home. What’s more interesting is that the property is exceptionally affordable 1BHK and 2BHK independent floors.",
+        "Do you ever wish to live a life of luxury? Well, your search ends here! Introducing PNB Picasso Floors – a unique and innovative offering that provides luxurious and affordable flats in Mohali. This property offers panoramic views of the bustling city skyline from the comfort of your home. What’s more interesting is that the property is exceptionally affordable 1BHK and 2BHK independent floors.",
     },
     {
       id: "palm-village-kharar",
@@ -137,7 +141,7 @@ const placeWise = {
         "Ever wondered if luxury and budget could go hand in hand? MVD Nature City Kharar could be exactly what you’ve been looking for. Spread over 2 acres, it is a beautiful 2BHK and 3BHK residential project by MVD Buildwell Private Limited. The well-planned layouts, open spaces, and easy access to all conveniences make this property an ideal place to call home.",
     },
     {
-      id:"aroma-heights-kharar",
+      id: "aroma-heights-kharar",
       title: "Aroma Heights (Price & Project Details) – Kharar",
       imgUrl: "kharar/Aroma-Heights/Aroma-heights-Feature-image.jpg",
       description:

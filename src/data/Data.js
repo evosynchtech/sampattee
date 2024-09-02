@@ -932,7 +932,329 @@ const data = {
       ],
     },
   ],
-  new_chandigarh: [],
+  new_chandigarh: [
+    {
+      id: "omaxe-the-resort",
+      title: "Omaxe The Resort (Price & Project Details)- New Chandigarh",
+      Imgs: ["Omaxe-The-Resort/Omaxe-The-Resort-Feature.jpg"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Are you trying to find a Chandigarh real estate property? If so, you might want to think about staying at Omaxe The Resort. This integrated township, which spans nine acres of verdant land, features all the contemporary amenities, such as a clubhouse, tennis court, gym, and swimming pool. It has everything, whether you're searching for an inexpensive starting home or an opulent penthouse.",
+            "In addition, the building offers a variety of apartment types, including penthouses with 1 BHK, 2 BHK, 3 BHK, and 4 BHK, all with first-rate amenities. Omaxe India Trade Tower, DLF Hyde Park, Omaxe The Resort, New Chandigarh, and Shriram E-Techno School are all conveniently located near to the institutional area.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "Omaxe Group",
+            rera_number: "PBRERA-SAS80-PR0220",
+            project_site_location:
+              "Mullanpur, New Chandigarh, SAS Nagar, Mohali",
+            apartment_type: "1, 2, 3 BHK apartments and 4 BHK penthouses",
+            flat_prices_at_omaxe_celestia_royal: "",
+            "2_BHK_apartments_price": "₹45.5 lac onwards",
+            "3_BHK_apartments_price": "₹61.38 lac onwards",
+            "4_BHK_apartments_and_penthouses_price": "₹1.43 Cr onwards",
+          },
+        },
+        {
+          type: "para",
+          heading: "Pros About Omaxe The Resort, New Chandigarh",
+          para: [
+            "Omaxe The Resort is tucked away in the centre of New Chandigarh, just a short distance from the bustling metropolis. This home building offers the ideal combination of modern amenities and architecture to make for a comfortable living environment. It is also conveniently located near commercial centers and large cities, which makes it a great place for families and businesses. Furthermore, this is the ideal moment to invest in New Chandigarh because property values are rising.",
+            "Omaxe The Resort has 82% of its 9.62 acres dedicated to open space where guests can take advantage of the sunshine and clean air. Nine towers of twenty-one stories each are also present. This residence offers 712 units, so there's bound to be a place for everyone.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Spacious bedrooms with upscale finishing like plastic emulsion paint, vitrified tiles, and laminated wooden cabinets are available in this lovely home. Pre-polished premium granite countertops, anti-skid ceramic tiles, and modular cabinets are features of the kitchens. And the enormous stairs, with its gorgeous railing and polished stone flooring and risers, is a work of art. Not to mention the amazing views and two elevators in each tower, this is the ultimate in opulent living.",
+            "All of the residences at Omaxe The Resort have high-end finishes and are constructed with RCC frame buildings that are resistant to earthquakes. The balconies are the ideal spot to unwind and take in the breathtaking views because they are equipped with anti-skid tiles and water-resistant paint.",
+            "Among the property's best amenities are the following:",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "Swimming pool",
+            "Conference room",
+            "Restaurant and cafeteria",
+            "Jacuzzi",
+            "Sun deck",
+            "Basketball Court",
+            "Badminton Court",
+            "Yoga/Meditation Area",
+            "Jogging Track",
+            "24/7 Power backup",
+            "Gymnasium",
+            "Car Parking",
+            "Children’s play area",
+            "Waste management",
+            "Fire management systems",
+            "24/7 water supply",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "About The Builder – Omaxe Group",
+          para: [
+            "Omaxe has been a well-known brand in Indian residential development for more than thirty years, particularly for its sophisticated and contemporary complexes. The organization has undoubtedly gained the trust of customers throughout the nation thanks to its stellar performance history and unwavering dedication to both elegance and affordability. Omaxe offers a wide range of products, including integrated townships and high-tech solutions, and is present in about 28 cities spread throughout 8 states.",
+            "The company's foundation also undertakes projects aimed at raising living standards in impoverished areas. Omaxe's social responsibility business model places a strong emphasis on the delivery of healthcare and education, as is demonstrated by these efforts. As a result, the business leads the way in sustainable development in addition to building houses.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Buy An Apartment At Omaxe The Resort, New Chandigarh",
+          para: [
+            "Omaxe The Resort is a great choice for anyone wishing to buy an apartment in New Chandigarh. The property is the ideal spot to call home because it is well-located and offers all the conveniences one could want. This magnificent residence has something for everyone here, from the modern spa and gym to the outdoor swimming pool and tennis facilities.",
+            "Omaxe also provides straightforward EMI options from reputable businesses. IDBI Bank, Axis Bank, and State Bank of India are your banking partners and can help you obtain the necessary financing.",
+            "For additional details about the residency and other Omaxe projects, stop by or visit their website.",
+          ],
+        },
+      ],
+    },
+    {
+      id: "the-ananta-aspire",
+      title: "The Ananta Aspire (Price & Project Details) – New Chandigarh",
+      Imgs: ["The-Ananta-Aspire/feature-image-ananta-aspire.jpeg"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Ananta Aspire is a unique residential complex that creates joyful homes by combining luxury, comfort, style, and technology. The residence, which occupies 34,050 square yards, provides Zirakpur, New Chandigarh, with an exclusive inventory of 4+1, 3+1, and 3 BHK smart homes for sale.",
+            "For individuals who like to experience both the tranquility of Chandigarh's countryside and the thrills of the city, these stunning apartments in Ananta are ideal. Ananta Aspire is the ideal place to call home because it has lots of space for relaxing. The site is near to several important Chandigarh landmarks, such as Elante Mall, Mohali International Airport, HLP Social Square, VIP Road, and Amcare Hospital.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "Svastiga Infra Private Limited",
+            rera_number: "PBRERA-SAS79-PR0777",
+            project_site_location:
+              "Village Nabha, H.B. No. 290, Zirakpur, District SAS Nagar (Mohali)",
+            apartment_type: "3 and 4 BHK Apartments",
+            flat_prices_at_the_ananta_aspire: "",
+            "3_BHK_apartments_price": "₹1.1 Cr onwards",
+            "4_BHK_apartments_price": "₹1.23 Cr onwards",
+          },
+        },
+        {
+          type: "para",
+          heading: "Pros at The Ananta Aspire",
+          para: [
+            "In the centre of New Chandigarh stands the 17-story, four-tower residential complex known as Ananta Aspire. Scattered over 7.13 acres (28.85K sq.m.) of land, this development comprises 440 units. Each tower has modular sanitary fittings, ISI Marked electrical fittings, cement plastered walls, tiled floors, and seismic resistance. The building has been created to offer residents an easy and comfortable living, and the kitchens are also modular.",
+            "With the sensation of a villa inside an apartment, this residency is a special dual-core project that provides the best of both worlds. Each level of the two-unit condos faces a park and is open from both sides, offering plenty of natural light and fresh air. This unique method of living is ideal for people who long for a closer relationship with the natural world. The Ananta Aspire in New Chandigarh is the ideal location if you're seeking a getaway from the rush of daily life.",
+            'Furthermore, it should come as no surprise that an increasing number of people want to make their homes "smart" in a world where technology plays a major role. Fortunately, The Ananta Aspire is ahead of the curve, providing completely automated homes that are button-activated. You can effortlessly control your home\'s lights, temperature, and security from the mobile app. The property boasts a central park, a rooftop pool, and a clubhouse, among many other captivating amenities.',
+            "Other amenities at The Ananta Aspire in New Chandigarh are:",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "Sports Arena",
+            "Clubhouse",
+            "Central Park with Amphitheatre",
+            "Roof-top Pool",
+            "EV Charging points",
+            "3-Tier Security System",
+            "Ample Parking System",
+            "Pet-friendly zone",
+            "Library",
+            "Fully Automated smart home",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "About the Builder – Svastiga Infra Private Limited",
+          para: [
+            "Svastiga Infra Private Limited is aware that success in the real estate industry depends on delivering excellence. The staff strives to surpass expectations in all aspects of their work, including timely delivery and work quality. They are also aware that hard work and creative thinking are prerequisites for success.",
+            "Svastiga Infra Private Limited is a relatively new company, but it has already created buzz in the sector. They truly think that we can quickly establish ourselves as the area's top real estate company by encouraging a culture of cooperation and partnership.",
+            "The Ananta Aspire, the building company's next project, promises to provide residents with extremely modern and satisfying residences.",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Buying an Apartment at The Ananta Aspire in New Chandigarh",
+          para: [
+            "One of New Chandigarh's most distinctive and well-kept secrets is the Ananta Aspire. It provides 3BHK and 4BHK green-certified smart homes that are sustainably planned and constructed. This property is a unique and innovative building, featuring an EV charging outlet each apartment as well as an infinity pool on the rooftop. ",
+            "At this residence, you can have lots of privacy and tranquility because there are only two units each floor. Thus, if you're searching for the most unique and remarkable real estate, the Ananta Aspire in New Chandigarh need to be the project you take into consideration.",
+            "Get the help you need to move on by getting in touch with the developers or visiting their website for more information.",
+          ],
+        },
+      ],
+    },
+    {
+      id: "omaxe-celestia-royal",
+      title: "Omaxe Celestia Royal (Price & Project Details) – New Chandigarh",
+      Imgs: ["Omaxe-The-Resort/Omaxe-Celestia-Royal-Feature2.jpg"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "Are you trying to find a luxurious location to live? The opulent Omaxe Celestia Royal 3 and 4 BHK apartments in New Chandigarh are the only place to look. These residences, which are situated on a large green space with breathtaking views of Mullanpur, provide unmatched living experiences that will make life worthwhile!",
+            "The property is among the Omaxe Group's most recent and impressive constructions. The Omaxe Celestia Royal demonstrates a great sense of social and environmental responsibility while adhering to international building standards.",
+            "In addition to green space and beautiful design, this residential complex has a children's playground, a clubhouse, fountains, and many other fun amenities. The property is ideally situated near well-known locations like Chandigarh International Airport and PGI Hospital.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "Omaxe Group",
+            rera_number: "PBRERA-SAS80-PR0033",
+            project_site_location:
+              "Omaxe New Chandigarh, District Sahibzada Ajit Singh Nagar, Mohali",
+            apartment_type: "3 and 4 BHK apartments",
+            flat_prices_at_omaxe_celestia_royal: "",
+            "3_BHK_apartments_price": "₹85.23 lac onwards",
+          },
+        },
+        {
+          type: "para",
+          heading: "Pros About Omaxe Celestia Royal, New Chandigarh",
+          para: [
+            "Shopping centers and movie theatres are easily accessible on foot from this property, which is ideally situated near the main highway linking several projects. A popular option for discriminating purchasers, the Omaxe Celestia Royal combines elegance and sustainability.",
+            "In addition, this lovely gated community provides a host of amenities to enhance and simplify your life. It includes all the bells and whistles, including premium doors and windows and electrical amenities like modular switches and outlets. Not to mention the magnificent staircase with green marble treads and risers. With its granite worktops, ceramic tiles, and modular kitchen, the kitchen is truly a work of beauty. For those seeking a lifestyle rich in amenities, Omaxe Celestia Royal Plus is the ideal location.",
+            "Other facilities at the property include the following:",
+          ],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "Swimming Pool",
+            "Sauna",
+            "Clubhouse",
+            "Gymnasium",
+            "Rain Water harvesting",
+            "Hi-tech security",
+            "Car parking",
+            "24/7 Power backup",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "About The Builder – Omaxe Group",
+          para: [
+            "Omaxe has been creating cutting-edge residential complexes with clever construction for more than thirty years. With a stellar track record, the company is currently among the best home builders in India and the most reputable brand.",
+            "Omaxe Group takes on projects that go above and beyond what clients anticipate, with a strong commitment to establishing a sustainable balance between elegance and affordability.",
+            "The company offers a wide range of products, such as integrated townships and hi-tech townships, and is active in 28 cities throughout 8 states. Furthermore, the foundation's projects strive to raise the standard of living in impoverished areas.",
+            "The Omaxe Group places a strong emphasis on the delivery of healthcare and education via social responsibility and corporate performance!",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "Buy An Apartment At Omaxe Celestia Royal",
+          para: [
+            "In New Chandigarh, Omaxe Celestia Royal is a distinctive residential development that offers 3 and 4 BHK apartments. Celestia Royal's stunning building and surroundings are the perfect representation of calm and harmony. The comfort of the occupants has been considered throughout the design of every interior space, using the best materials and engineering available.",
+            "Furthermore, the residency location is ideal for people seeking a calm and tranquil way of life. Moreover, Omaxe Celestia Royal is the only option to consider if comfort and convenience are your priorities!",
+            "Easy EMI alternatives from reputable companies, such as PNB Housing, HDFC Home Loans, LIC Housing Finance, ICICI, State Bank of India, and DHFL, are available through Omaxe.",
+            "Make sure to see them for assistance or visit their website to learn more about the property and other projects from the Omaxe Group.",
+            "MohaliMag hopes you soon acquire your ideal home. Calm:)",
+          ],
+        },
+      ],
+    },
+    {
+      id: "suntec-city",
+      title: "Suntec City (Project Details & Prices)",
+      Imgs: ["Suntec-City/suntec-city-night-view.png"],
+      sections: [
+        {
+          type: "paras",
+          heading: "",
+          para: [
+            "We frequently sacrifice the stunning mountains with their abundant flora and fauna in the rush of daily life. What if you could have it all and yet reside in a city? Doesn't it seem surreal? Well, this is feasible with Suntec City.",
+            "This estate project is situated in the Shivalik foothills, in the city of New Chandigarh. This project is beneficial for various types of properties, including homes, businesses, and land. With the development moving forward, this estate will undoubtedly become a benchmark for its kind.",
+          ],
+        },
+        {
+          type: "dict",
+          heading: "Project Details",
+          values: {
+            builder: "The Indian CoOp. House Building Society Ltd & ABS Group",
+            rera_number: "PBRERA-SAS80-PM0045",
+            project_site_location:
+              "Village Rehmanpur, Tehsil Majri and Village Palheri, Tehsil Kharar, Mullanpur (New Chandigarh), District S.A.S. Nagar, Mohali 140901",
+            project_type: "Mixed",
+            project_status: "Under Construction",
+            estimated_price: "Plot prices at Suntec City start at ₹70 Lac",
+            independent_floors_price: "₹46 Lac to ₹60 Lac Only",
+            commercial_price: "₹65 Lac Onwards",
+          },
+        },
+        {
+          type: "para",
+          heading: "What all does Suntec City has to offer?",
+          para: [
+            "Apart from the luscious green surroundings and unlimited kinds of flora and fauna, Suntech offers three kinds of properties. This 108 Acre project includes residential plots, commercial property, and independent floors that will make you feel like you are living in another city.",
+          ],
+        },
+        {
+          type: "para",
+          heading: "Plots",
+          para: ["Residential Plot Sizes –"],
+        },
+        {
+          type: "list",
+          heading: "",
+          items: [
+            "150 sq. yards",
+            "200 sq. yards",
+            "250 sq. yards",
+            "300 sq. yards",
+            "350 sq. yards",
+            "500 sq. yards",
+            "1300 sq. yards",
+          ],
+        },
+        {
+          type: "list",
+          heading: "Reasons to buy a property at Suntec City, New Chandigarh",
+          items: [
+            "RERA-approved",
+            "Trusted Builders",
+            "Located in the Shivalik foothills",
+            "400 Acres Golf Park in the vicinity",
+            "Project-based on new classic architecture",
+            "Open & Green Areas all around",
+            "World Class Hotels nearby",
+            "Major Upcoming Projects like International Stadium, Medicity, Golf course, Premium Schools, etc.",
+            "Speediest Development",
+          ],
+        },
+        {
+          type: "paras",
+          heading: "About the Builder",
+          para: [
+            "as its promoter, Indian CoOp. House Building Society Ltd. In New Chandigarh, Suntec City has already begun to leave its mark. Furthermore, The New Chandigarh Co-operative House Building Society Ltd. was established specifically to offer higher quality housing at affordable costs.",
+            "Furthermore, this project is being developed by a number of companies, including VRS Ventures and ABS Group, both of whom have years of experience and take pride in their work and journey.",
+          ],
+        },
+        {
+          type: "paras",
+          heading:
+            "Thinking of purchasing a property in SunTec City, New Chandigarh?",
+          para: [
+            "Situated near multiple forests and Chandigarh's botanical park, this house is definitely a city getaway without leaving it. Additionally, the estate has all of the top-notch amenities that are ideal for you and your family.",
+            "Additionally, some of the projects in this estate are completed and ready for ownership, while others are still in the process of being built.",
+            "You can reach SunTec City by calling 072990 00097 if you're interested in learning more.",
+            "Site Address: New Palheri, New Chandigarh, Chandigarh 160062; Suntec City, Madhya Marg Extn, Mullanpur Barrier",
+          ],
+        },
+      ],
+    },
+  ],
   zirakpur: [],
 };
 
